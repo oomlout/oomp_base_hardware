@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1W64E",
     "md5_10": "3087fe4b82",
     "md5_10_upper": "3087FE4B82",
+    "oomp_word": "foggy toilet recycle",
+    "oomp_word_list": [
+        "foggy",
+        "toilet",
+        "recycle"
+    ],
+    "oomp_word_emoji": ":foggy: :toilet: :recycle:",
+    "oomp_word_emoji_list": [
+        ":foggy:",
+        ":toilet:",
+        ":recycle:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "16",

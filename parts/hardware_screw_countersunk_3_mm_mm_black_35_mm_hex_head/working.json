@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6EW4Y",
     "md5_10": "a46032f57b",
     "md5_10_upper": "A46032F57B",
+    "oomp_word": "book poodle cat",
+    "oomp_word_list": [
+        "book",
+        "poodle",
+        "cat"
+    ],
+    "oomp_word_emoji": ":book: :poodle: :cat:",
+    "oomp_word_emoji_list": [
+        ":book:",
+        ":poodle:",
+        ":cat:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "35",

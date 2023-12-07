@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7NBYQ",
     "md5_10": "c40352999b",
     "md5_10_upper": "C40352999B",
+    "oomp_word": "cookie grin octopus",
+    "oomp_word_list": [
+        "cookie",
+        "grin",
+        "octopus"
+    ],
+    "oomp_word_emoji": ":cookie: :grin: :octopus:",
+    "oomp_word_emoji_list": [
+        ":cookie:",
+        ":grin:",
+        ":octopus:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "50",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9M22A",
     "md5_10": "f65cf24b59",
     "md5_10_upper": "F65CF24B59",
+    "oomp_word": "five ox one",
+    "oomp_word_list": [
+        "five",
+        "ox",
+        "one"
+    ],
+    "oomp_word_emoji": ":five: :ox: :one:",
+    "oomp_word_emoji_list": [
+        ":five:",
+        ":ox:",
+        ":one:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "18",

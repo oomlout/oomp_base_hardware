@@ -56,6 +56,16 @@ name_no_size: Penny
 name_no_size_short: Penny
 name_no_type: 5 Mm Penny
 oomp_key: oomp_hardware_washer_5_mm_penny
+oomp_word: leopard ski hamster
+oomp_word_emoji: ':leopard: :ski: :hamster:'
+oomp_word_emoji_list:
+- ':leopard:'
+- ':ski:'
+- ':hamster:'
+oomp_word_list:
+- leopard
+- ski
+- hamster
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

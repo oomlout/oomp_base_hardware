@@ -56,6 +56,16 @@ name_no_size: Penny
 name_no_size_short: Penny
 name_no_type: 1 Mm Penny
 oomp_key: oomp_hardware_washer_1_mm_penny
+oomp_word: tiger hotel shirt
+oomp_word_emoji: ':tiger: :hotel: :shirt:'
+oomp_word_emoji_list:
+- ':tiger:'
+- ':hotel:'
+- ':shirt:'
+oomp_word_list:
+- tiger
+- hotel
+- shirt
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

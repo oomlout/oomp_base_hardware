@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1UWQR",
     "md5_10": "2fa243b70e",
     "md5_10_upper": "2FA243B70E",
+    "oomp_word": "cyclone violin elephant",
+    "oomp_word_list": [
+        "cyclone",
+        "violin",
+        "elephant"
+    ],
+    "oomp_word_emoji": ":cyclone: :violin: :elephant:",
+    "oomp_word_emoji_list": [
+        ":cyclone:",
+        ":violin:",
+        ":elephant:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "8",

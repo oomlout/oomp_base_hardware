@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7A0G1",
     "md5_10": "ba87c1e3bb",
     "md5_10_upper": "BA87C1E3BB",
+    "oomp_word": "spaghetti toilet doughnut",
+    "oomp_word_list": [
+        "spaghetti",
+        "toilet",
+        "doughnut"
+    ],
+    "oomp_word_emoji": ":spaghetti: :toilet: :doughnut:",
+    "oomp_word_emoji_list": [
+        ":spaghetti:",
+        ":toilet:",
+        ":doughnut:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "90",

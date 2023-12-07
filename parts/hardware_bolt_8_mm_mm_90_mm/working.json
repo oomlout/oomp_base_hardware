@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1A0I4",
     "md5_10": "20c20cb7c3",
     "md5_10_upper": "20C20CB7C3",
+    "oomp_word": "skull birthday alien",
+    "oomp_word_list": [
+        "skull",
+        "birthday",
+        "alien"
+    ],
+    "oomp_word_emoji": ":skull: :birthday: :alien:",
+    "oomp_word_emoji_list": [
+        ":skull:",
+        ":birthday:",
+        ":alien:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "90",

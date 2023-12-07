@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "O3K8",
     "md5_10": "1128086e97",
     "md5_10_upper": "1128086E97",
+    "oomp_word": "dizzy tongue scream",
+    "oomp_word_list": [
+        "dizzy",
+        "tongue",
+        "scream"
+    ],
+    "oomp_word_emoji": ":dizzy: :tongue: :scream:",
+    "oomp_word_emoji_list": [
+        ":dizzy:",
+        ":tongue:",
+        ":scream:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "35",

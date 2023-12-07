@@ -56,6 +56,16 @@ name_no_size: Locking
 name_no_size_short: Locking
 name_no_type: 8 Mm Locking
 oomp_key: oomp_hardware_nut_8_mm_locking
+oomp_word: ambulance leaves whale
+oomp_word_emoji: ':ambulance: :leaves: :whale:'
+oomp_word_emoji_list:
+- ':ambulance:'
+- ':leaves:'
+- ':whale:'
+oomp_word_list:
+- ambulance
+- leaves
+- whale
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

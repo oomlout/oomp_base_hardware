@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "53N8Z",
     "md5_10": "82bd7337eb",
     "md5_10_upper": "82BD7337EB",
+    "oomp_word": "radio rice flags",
+    "oomp_word_list": [
+        "radio",
+        "rice",
+        "flags"
+    ],
+    "oomp_word_emoji": ":radio: :rice: :flags:",
+    "oomp_word_emoji_list": [
+        ":radio:",
+        ":rice:",
+        ":flags:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "70",

@@ -56,6 +56,16 @@ name_no_size: 14 Mm
 name_no_size_short: 14 Mm
 name_no_type: 5 Mm Mm 14 Mm
 oomp_key: oomp_hardware_set_screw_5_mm_mm_14_mm
+oomp_word: grapes hotel five
+oomp_word_emoji: ':grapes: :hotel: :five:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':hotel:'
+- ':five:'
+oomp_word_list:
+- grapes
+- hotel
+- five
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

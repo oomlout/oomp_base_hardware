@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "479WC",
     "md5_10": "6bb1dc1331",
     "md5_10_upper": "6BB1DC1331",
+    "oomp_word": "chestnut briefcase factory",
+    "oomp_word_list": [
+        "chestnut",
+        "briefcase",
+        "factory"
+    ],
+    "oomp_word_emoji": ":chestnut: :briefcase: :factory:",
+    "oomp_word_emoji_list": [
+        ":chestnut:",
+        ":briefcase:",
+        ":factory:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "16",

@@ -56,6 +56,16 @@ name_no_size: Penny
 name_no_size_short: Penny
 name_no_type: 2 7 Mm Penny
 oomp_key: oomp_hardware_washer_2_7_mm_penny
+oomp_word: eyes zap rainbow
+oomp_word_emoji: ':eyes: :zap: :rainbow:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':zap:'
+- ':rainbow:'
+oomp_word_list:
+- eyes
+- zap
+- rainbow
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

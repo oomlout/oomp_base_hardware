@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9FXS",
     "md5_10": "06b8f002e7",
     "md5_10_upper": "06B8F002E7",
+    "oomp_word": "sleeping hamburger train",
+    "oomp_word_list": [
+        "sleeping",
+        "hamburger",
+        "train"
+    ],
+    "oomp_word_emoji": ":sleeping: :hamburger: :train:",
+    "oomp_word_emoji_list": [
+        ":sleeping:",
+        ":hamburger:",
+        ":train:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "20",

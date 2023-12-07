@@ -56,6 +56,16 @@ name_no_size: 20 Mm
 name_no_size_short: 20 Mm
 name_no_type: 4 Mm Mm 20 Mm
 oomp_key: oomp_hardware_set_screw_4_mm_mm_20_mm
+oomp_word: kiss herb shoe
+oomp_word_emoji: ':kiss: :herb: :shoe:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':herb:'
+- ':shoe:'
+oomp_word_list:
+- kiss
+- herb
+- shoe
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

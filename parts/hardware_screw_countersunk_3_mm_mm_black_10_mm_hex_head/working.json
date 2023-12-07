@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6YRPR",
     "md5_10": "b286cf5b09",
     "md5_10_upper": "B286CF5B09",
+    "oomp_word": "handbag bath melon",
+    "oomp_word_list": [
+        "handbag",
+        "bath",
+        "melon"
+    ],
+    "oomp_word_emoji": ":handbag: :bath: :melon:",
+    "oomp_word_emoji_list": [
+        ":handbag:",
+        ":bath:",
+        ":melon:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "10",

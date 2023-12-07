@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7ZK0N",
     "md5_10": "ccb71729db",
     "md5_10_upper": "CCB71729DB",
+    "oomp_word": "watermelon pizza thumbsdown",
+    "oomp_word_list": [
+        "watermelon",
+        "pizza",
+        "thumbsdown"
+    ],
+    "oomp_word_emoji": ":watermelon: :pizza: :thumbsdown:",
+    "oomp_word_emoji_list": [
+        ":watermelon:",
+        ":pizza:",
+        ":thumbsdown:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "120",

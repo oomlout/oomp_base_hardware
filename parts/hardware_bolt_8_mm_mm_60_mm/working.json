@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "62IAW",
     "md5_10": "9b8f287bed",
     "md5_10_upper": "9B8F287BED",
+    "oomp_word": "ski calendar tongue",
+    "oomp_word_list": [
+        "ski",
+        "calendar",
+        "tongue"
+    ],
+    "oomp_word_emoji": ":ski: :calendar: :tongue:",
+    "oomp_word_emoji_list": [
+        ":ski:",
+        ":calendar:",
+        ":tongue:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "60",

@@ -56,6 +56,16 @@ name_no_size: Black 25 Mm Hex Head
 name_no_size_short: Black 25 Mm Hex Head
 name_no_type: 4 Mm Mm Black 25 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_4_mm_mm_black_25_mm_hex_head
+oomp_word: koala rainbow princess
+oomp_word_emoji: ':koala: :rainbow: :princess:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':rainbow:'
+- ':princess:'
+oomp_word_list:
+- koala
+- rainbow
+- princess
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

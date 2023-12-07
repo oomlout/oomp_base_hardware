@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8JJ61",
     "md5_10": "daefc973d0",
     "md5_10_upper": "DAEFC973D0",
+    "oomp_word": "hotel truck lemon",
+    "oomp_word_list": [
+        "hotel",
+        "truck",
+        "lemon"
+    ],
+    "oomp_word_emoji": ":hotel: :truck: :lemon:",
+    "oomp_word_emoji_list": [
+        ":hotel:",
+        ":truck:",
+        ":lemon:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "25",

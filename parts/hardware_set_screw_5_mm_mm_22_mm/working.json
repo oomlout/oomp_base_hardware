@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "44JM9",
     "md5_10": "69c0515a30",
     "md5_10_upper": "69C0515A30",
+    "oomp_word": "cactus bread snail",
+    "oomp_word_list": [
+        "cactus",
+        "bread",
+        "snail"
+    ],
+    "oomp_word_emoji": ":cactus: :bread: :snail:",
+    "oomp_word_emoji_list": [
+        ":cactus:",
+        ":bread:",
+        ":snail:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "22",

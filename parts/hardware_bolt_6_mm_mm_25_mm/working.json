@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2IDCE",
     "md5_10": "40560e33c9",
     "md5_10_upper": "40560E33C9",
+    "oomp_word": "racehorse ram cupid",
+    "oomp_word_list": [
+        "racehorse",
+        "ram",
+        "cupid"
+    ],
+    "oomp_word_emoji": ":racehorse: :ram: :cupid:",
+    "oomp_word_emoji_list": [
+        ":racehorse:",
+        ":ram:",
+        ":cupid:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "25",

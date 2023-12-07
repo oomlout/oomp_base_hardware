@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "55NWV",
     "md5_10": "842d4fd8c4",
     "md5_10_upper": "842D4FD8C4",
+    "oomp_word": "key snowman ant",
+    "oomp_word_list": [
+        "key",
+        "snowman",
+        "ant"
+    ],
+    "oomp_word_emoji": ":key: :snowman: :ant:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":snowman:",
+        ":ant:"
+    ],
     "size_only_numbers": "2",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "",

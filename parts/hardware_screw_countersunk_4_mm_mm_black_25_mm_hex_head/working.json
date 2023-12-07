@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8T2IC",
     "md5_10": "e1b9f4ba7b",
     "md5_10_upper": "E1B9F4BA7B",
+    "oomp_word": "boat fries three",
+    "oomp_word_list": [
+        "boat",
+        "fries",
+        "three"
+    ],
+    "oomp_word_emoji": ":boat: :fries: :three:",
+    "oomp_word_emoji_list": [
+        ":boat:",
+        ":fries:",
+        ":three:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "25",

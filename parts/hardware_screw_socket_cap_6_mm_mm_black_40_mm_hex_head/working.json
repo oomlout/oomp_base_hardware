@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6832T",
     "md5_10": "9f87951c16",
     "md5_10_upper": "9F87951C16",
+    "oomp_word": "diamonds toilet telescope",
+    "oomp_word_list": [
+        "diamonds",
+        "toilet",
+        "telescope"
+    ],
+    "oomp_word_emoji": ":diamonds: :toilet: :telescope:",
+    "oomp_word_emoji_list": [
+        ":diamonds:",
+        ":toilet:",
+        ":telescope:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "40",

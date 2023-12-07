@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "46V6P",
     "md5_10": "6b676154ce",
     "md5_10_upper": "6B676154CE",
+    "oomp_word": "chestnut herb bouquet",
+    "oomp_word_list": [
+        "chestnut",
+        "herb",
+        "bouquet"
+    ],
+    "oomp_word_emoji": ":chestnut: :herb: :bouquet:",
+    "oomp_word_emoji_list": [
+        ":chestnut:",
+        ":herb:",
+        ":bouquet:"
+    ],
     "size_only_numbers": "27",
     "size_only_numbers_no_zeros": "27",
     "description_only_numbers": "",

@@ -56,6 +56,16 @@ name_no_size: 70 Mm
 name_no_size_short: 70 Mm
 name_no_type: 5 Mm Mm 70 Mm
 oomp_key: oomp_hardware_set_screw_5_mm_mm_70_mm
+oomp_word: radio rice flags
+oomp_word_emoji: ':radio: :rice: :flags:'
+oomp_word_emoji_list:
+- ':radio:'
+- ':rice:'
+- ':flags:'
+oomp_word_list:
+- radio
+- rice
+- flags
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -56,6 +56,16 @@ name_no_size: Black 70 Mm Hex Head
 name_no_size_short: Black 70 Mm Hex Head
 name_no_type: 5 Mm Mm Black 70 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_5_mm_mm_black_70_mm_hex_head
+oomp_word: curry school bulb
+oomp_word_emoji: ':curry: :school: :bulb:'
+oomp_word_emoji_list:
+- ':curry:'
+- ':school:'
+- ':bulb:'
+oomp_word_list:
+- curry
+- school
+- bulb
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2G9XD",
     "md5_10": "3ed841ab90",
     "md5_10_upper": "3ED841AB90",
+    "oomp_word": "monkey hospital camel",
+    "oomp_word_list": [
+        "monkey",
+        "hospital",
+        "camel"
+    ],
+    "oomp_word_emoji": ":monkey: :hospital: :camel:",
+    "oomp_word_emoji_list": [
+        ":monkey:",
+        ":hospital:",
+        ":camel:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "8",

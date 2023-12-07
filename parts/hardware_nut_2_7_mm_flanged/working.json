@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9X1A4",
     "md5_10": "fe2dbc556d",
     "md5_10_upper": "FE2DBC556D",
+    "oomp_word": "recycle snowman sushi",
+    "oomp_word_list": [
+        "recycle",
+        "snowman",
+        "sushi"
+    ],
+    "oomp_word_emoji": ":recycle: :snowman: :sushi:",
+    "oomp_word_emoji_list": [
+        ":recycle:",
+        ":snowman:",
+        ":sushi:"
+    ],
     "size_only_numbers": "27",
     "size_only_numbers_no_zeros": "27",
     "description_only_numbers": "",

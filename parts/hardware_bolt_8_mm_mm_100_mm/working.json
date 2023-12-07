@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9I0KC",
     "md5_10": "f37c5cc5aa",
     "md5_10_upper": "F37C5CC5AA",
+    "oomp_word": "two tv ox",
+    "oomp_word_list": [
+        "two",
+        "tv",
+        "ox"
+    ],
+    "oomp_word_emoji": ":two: :tv: :ox:",
+    "oomp_word_emoji_list": [
+        ":two:",
+        ":tv:",
+        ":ox:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "100",

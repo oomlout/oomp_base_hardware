@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5XFJU",
     "md5_10": "97f1fa990b",
     "md5_10_upper": "97F1FA990B",
+    "oomp_word": "baseball ticket nine",
+    "oomp_word_list": [
+        "baseball",
+        "ticket",
+        "nine"
+    ],
+    "oomp_word_emoji": ":baseball: :ticket: :nine:",
+    "oomp_word_emoji_list": [
+        ":baseball:",
+        ":ticket:",
+        ":nine:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "",

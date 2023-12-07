@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2AW71",
     "md5_10": "3b037d85e2",
     "md5_10_upper": "3B037D85E2",
+    "oomp_word": "bear grin phone",
+    "oomp_word_list": [
+        "bear",
+        "grin",
+        "phone"
+    ],
+    "oomp_word_emoji": ":bear: :grin: :phone:",
+    "oomp_word_emoji_list": [
+        ":bear:",
+        ":grin:",
+        ":phone:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "",

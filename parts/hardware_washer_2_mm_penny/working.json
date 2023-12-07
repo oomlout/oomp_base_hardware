@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "72IQM",
     "md5_10": "b5325eb03a",
     "md5_10_upper": "B5325EB03A",
+    "oomp_word": "tea cat crocodile",
+    "oomp_word_list": [
+        "tea",
+        "cat",
+        "crocodile"
+    ],
+    "oomp_word_emoji": ":tea: :cat: :crocodile:",
+    "oomp_word_emoji_list": [
+        ":tea:",
+        ":cat:",
+        ":crocodile:"
+    ],
     "size_only_numbers": "2",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "",

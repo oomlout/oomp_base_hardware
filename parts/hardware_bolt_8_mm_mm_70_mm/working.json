@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "46QVF",
     "md5_10": "6b518b31d2",
     "md5_10_upper": "6B518B31D2",
+    "oomp_word": "chestnut snail door",
+    "oomp_word_list": [
+        "chestnut",
+        "snail",
+        "door"
+    ],
+    "oomp_word_emoji": ":chestnut: :snail: :door:",
+    "oomp_word_emoji_list": [
+        ":chestnut:",
+        ":snail:",
+        ":door:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "70",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "III7",
     "md5_10": "0d2e2f10f6",
     "md5_10_upper": "0D2E2F10F6",
+    "oomp_word": "heart zap cyclone",
+    "oomp_word_list": [
+        "heart",
+        "zap",
+        "cyclone"
+    ],
+    "oomp_word_emoji": ":heart: :zap: :cyclone:",
+    "oomp_word_emoji_list": [
+        ":heart:",
+        ":zap:",
+        ":cyclone:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7QUCV",
     "md5_10": "c6832f6caf",
     "md5_10_upper": "C6832F6CAF",
+    "oomp_word": "lollipop lock cyclone",
+    "oomp_word_list": [
+        "lollipop",
+        "lock",
+        "cyclone"
+    ],
+    "oomp_word_emoji": ":lollipop: :lock: :cyclone:",
+    "oomp_word_emoji_list": [
+        ":lollipop:",
+        ":lock:",
+        ":cyclone:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "30",

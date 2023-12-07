@@ -56,6 +56,16 @@ name_no_size: Flanged
 name_no_size_short: Flanged
 name_no_type: 1 Mm Flanged
 oomp_key: oomp_hardware_nut_1_mm_flanged
+oomp_word: factory elephant apple
+oomp_word_emoji: ':factory: :elephant: :apple:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':elephant:'
+- ':apple:'
+oomp_word_list:
+- factory
+- elephant
+- apple
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

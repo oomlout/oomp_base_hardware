@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6VNWN",
     "md5_10": "b050c7662d",
     "md5_10_upper": "B050C7662D",
+    "oomp_word": "crown beetle honey_pot",
+    "oomp_word_list": [
+        "crown",
+        "beetle",
+        "honey_pot"
+    ],
+    "oomp_word_emoji": ":crown: :beetle: :honey_pot:",
+    "oomp_word_emoji_list": [
+        ":crown:",
+        ":beetle:",
+        ":honey_pot:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "140",

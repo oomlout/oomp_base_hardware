@@ -56,6 +56,16 @@ name_no_size: Locking
 name_no_size_short: Locking
 name_no_type: 2 7 Mm Locking
 oomp_key: oomp_hardware_nut_2_7_mm_locking
+oomp_word: book one rocket
+oomp_word_emoji: ':book: :one: :rocket:'
+oomp_word_emoji_list:
+- ':book:'
+- ':one:'
+- ':rocket:'
+oomp_word_list:
+- book
+- one
+- rocket
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -56,6 +56,16 @@ name_no_size: 60 Mm
 name_no_size_short: 60 Mm
 name_no_type: 6 Mm Mm 60 Mm
 oomp_key: oomp_hardware_bolt_6_mm_mm_60_mm
+oomp_word: balloon book hamster
+oomp_word_emoji: ':balloon: :book: :hamster:'
+oomp_word_emoji_list:
+- ':balloon:'
+- ':book:'
+- ':hamster:'
+oomp_word_list:
+- balloon
+- book
+- hamster
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

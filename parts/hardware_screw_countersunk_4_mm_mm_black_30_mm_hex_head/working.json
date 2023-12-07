@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2LVZ6",
     "md5_10": "42d72219f9",
     "md5_10_upper": "42D72219F9",
+    "oomp_word": "sheep office lips",
+    "oomp_word_list": [
+        "sheep",
+        "office",
+        "lips"
+    ],
+    "oomp_word_emoji": ":sheep: :office: :lips:",
+    "oomp_word_emoji_list": [
+        ":sheep:",
+        ":office:",
+        ":lips:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "30",

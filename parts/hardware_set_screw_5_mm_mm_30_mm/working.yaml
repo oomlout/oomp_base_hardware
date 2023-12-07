@@ -56,6 +56,16 @@ name_no_size: 30 Mm
 name_no_size_short: 30 Mm
 name_no_type: 5 Mm Mm 30 Mm
 oomp_key: oomp_hardware_set_screw_5_mm_mm_30_mm
+oomp_word: maple_leaf tennis microscope
+oomp_word_emoji: ':maple_leaf: :tennis: :microscope:'
+oomp_word_emoji_list:
+- ':maple_leaf:'
+- ':tennis:'
+- ':microscope:'
+oomp_word_list:
+- maple_leaf
+- tennis
+- microscope
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

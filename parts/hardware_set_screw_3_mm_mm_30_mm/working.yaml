@@ -56,6 +56,16 @@ name_no_size: 30 Mm
 name_no_size_short: 30 Mm
 name_no_type: 3 Mm Mm 30 Mm
 oomp_key: oomp_hardware_set_screw_3_mm_mm_30_mm
+oomp_word: phone foggy squirrel
+oomp_word_emoji: ':phone: :foggy: :squirrel:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':foggy:'
+- ':squirrel:'
+oomp_word_list:
+- phone
+- foggy
+- squirrel
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

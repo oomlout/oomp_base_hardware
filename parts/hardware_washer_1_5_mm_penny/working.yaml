@@ -56,6 +56,16 @@ name_no_size: Penny
 name_no_size_short: Penny
 name_no_type: 1 5 Mm Penny
 oomp_key: oomp_hardware_washer_1_5_mm_penny
+oomp_word: office bread wink
+oomp_word_emoji: ':office: :bread: :wink:'
+oomp_word_emoji_list:
+- ':office:'
+- ':bread:'
+- ':wink:'
+oomp_word_list:
+- office
+- bread
+- wink
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

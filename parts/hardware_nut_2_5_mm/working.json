@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1A6EF",
     "md5_10": "20dfe7b4bb",
     "md5_10_upper": "20DFE7B4BB",
+    "oomp_word": "skull fountain helicopter",
+    "oomp_word_list": [
+        "skull",
+        "fountain",
+        "helicopter"
+    ],
+    "oomp_word_emoji": ":skull: :fountain: :helicopter:",
+    "oomp_word_emoji_list": [
+        ":skull:",
+        ":fountain:",
+        ":helicopter:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "",

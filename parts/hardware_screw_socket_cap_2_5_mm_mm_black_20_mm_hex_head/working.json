@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6MI08",
     "md5_10": "a9caa8ffc3",
     "md5_10_upper": "A9CAA8FFC3",
+    "oomp_word": "sandal cherries shoe",
+    "oomp_word_list": [
+        "sandal",
+        "cherries",
+        "shoe"
+    ],
+    "oomp_word_emoji": ":sandal: :cherries: :shoe:",
+    "oomp_word_emoji_list": [
+        ":sandal:",
+        ":cherries:",
+        ":shoe:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "20",

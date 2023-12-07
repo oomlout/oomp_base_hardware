@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4C54D",
     "md5_10": "6f28edf8b1",
     "md5_10_upper": "6F28EDF8B1",
+    "oomp_word": "moon tongue bus",
+    "oomp_word_list": [
+        "moon",
+        "tongue",
+        "bus"
+    ],
+    "oomp_word_emoji": ":moon: :tongue: :bus:",
+    "oomp_word_emoji_list": [
+        ":moon:",
+        ":tongue:",
+        ":bus:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "35",

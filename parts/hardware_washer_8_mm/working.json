@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8NP85",
     "md5_10": "dde7752395",
     "md5_10_upper": "DDE7752395",
+    "oomp_word": "stars helicopter ghost",
+    "oomp_word_list": [
+        "stars",
+        "helicopter",
+        "ghost"
+    ],
+    "oomp_word_emoji": ":stars: :helicopter: :ghost:",
+    "oomp_word_emoji_list": [
+        ":stars:",
+        ":helicopter:",
+        ":ghost:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "",

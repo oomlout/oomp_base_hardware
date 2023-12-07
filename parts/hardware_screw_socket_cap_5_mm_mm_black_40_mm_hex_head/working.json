@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "55WTL",
     "md5_10": "845a69974d",
     "md5_10_upper": "845A69974D",
+    "oomp_word": "key goat cactus",
+    "oomp_word_list": [
+        "key",
+        "goat",
+        "cactus"
+    ],
+    "oomp_word_emoji": ":key: :goat: :cactus:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":goat:",
+        ":cactus:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "40",

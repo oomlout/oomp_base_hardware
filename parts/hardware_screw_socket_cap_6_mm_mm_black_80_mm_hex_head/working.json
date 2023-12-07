@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2V8DA",
     "md5_10": "497e1e49e0",
     "md5_10_upper": "497E1E49E0",
+    "oomp_word": "hatching_chick fax angel",
+    "oomp_word_list": [
+        "hatching_chick",
+        "fax",
+        "angel"
+    ],
+    "oomp_word_emoji": ":hatching_chick: :fax: :angel:",
+    "oomp_word_emoji_list": [
+        ":hatching_chick:",
+        ":fax:",
+        ":angel:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "80",

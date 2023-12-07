@@ -56,6 +56,16 @@ name_no_size: 80 Mm
 name_no_size_short: 80 Mm
 name_no_type: 5 Mm Mm 80 Mm
 oomp_key: oomp_hardware_set_screw_5_mm_mm_80_mm
+oomp_word: airplane tent tennis
+oomp_word_emoji: ':airplane: :tent: :tennis:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':tent:'
+- ':tennis:'
+oomp_word_list:
+- airplane
+- tent
+- tennis
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -56,6 +56,16 @@ name_no_size: 18 Mm
 name_no_size_short: 18 Mm
 name_no_type: 6 Mm Mm 18 Mm
 oomp_key: oomp_hardware_set_screw_6_mm_mm_18_mm
+oomp_word: five ox one
+oomp_word_emoji: ':five: :ox: :one:'
+oomp_word_emoji_list:
+- ':five:'
+- ':ox:'
+- ':one:'
+oomp_word_list:
+- five
+- ox
+- one
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

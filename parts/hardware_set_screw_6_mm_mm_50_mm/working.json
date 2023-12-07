@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "89UFZ",
     "md5_10": "d40a5fc1e1",
     "md5_10_upper": "D40A5FC1E1",
+    "oomp_word": "corn sleepy leopard",
+    "oomp_word_list": [
+        "corn",
+        "sleepy",
+        "leopard"
+    ],
+    "oomp_word_emoji": ":corn: :sleepy: :leopard:",
+    "oomp_word_emoji_list": [
+        ":corn:",
+        ":sleepy:",
+        ":leopard:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "50",

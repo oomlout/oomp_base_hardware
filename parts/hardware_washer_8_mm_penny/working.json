@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "76ACY",
     "md5_10": "b7e0f21b4a",
     "md5_10_upper": "B7E0F21B4A",
+    "oomp_word": "pizza ship one",
+    "oomp_word_list": [
+        "pizza",
+        "ship",
+        "one"
+    ],
+    "oomp_word_emoji": ":pizza: :ship: :one:",
+    "oomp_word_emoji_list": [
+        ":pizza:",
+        ":ship:",
+        ":one:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "",

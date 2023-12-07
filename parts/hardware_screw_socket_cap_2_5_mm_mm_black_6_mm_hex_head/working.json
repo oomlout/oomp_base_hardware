@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "10V95",
     "md5_10": "1a3f39ae08",
     "md5_10_upper": "1A3F39AE08",
+    "oomp_word": "clap horse tiger",
+    "oomp_word_list": [
+        "clap",
+        "horse",
+        "tiger"
+    ],
+    "oomp_word_emoji": ":clap: :horse: :tiger:",
+    "oomp_word_emoji_list": [
+        ":clap:",
+        ":horse:",
+        ":tiger:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "6",

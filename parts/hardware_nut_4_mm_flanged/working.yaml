@@ -56,6 +56,16 @@ name_no_size: Flanged
 name_no_size_short: Flanged
 name_no_type: 4 Mm Flanged
 oomp_key: oomp_hardware_nut_4_mm_flanged
+oomp_word: baseball ticket nine
+oomp_word_emoji: ':baseball: :ticket: :nine:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':ticket:'
+- ':nine:'
+oomp_word_list:
+- baseball
+- ticket
+- nine
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

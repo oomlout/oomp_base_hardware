@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9B0CV",
     "md5_10": "ee7f8f5cfd",
     "md5_10_upper": "EE7F8F5CFD",
+    "oomp_word": "ambulance speaker calendar",
+    "oomp_word_list": [
+        "ambulance",
+        "speaker",
+        "calendar"
+    ],
+    "oomp_word_emoji": ":ambulance: :speaker: :calendar:",
+    "oomp_word_emoji_list": [
+        ":ambulance:",
+        ":speaker:",
+        ":calendar:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "35",

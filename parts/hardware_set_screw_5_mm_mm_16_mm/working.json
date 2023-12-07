@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5OPEX",
     "md5_10": "91bba9a894",
     "md5_10_upper": "91BBA9A894",
+    "oomp_word": "pushpin curry sandal",
+    "oomp_word_list": [
+        "pushpin",
+        "curry",
+        "sandal"
+    ],
+    "oomp_word_emoji": ":pushpin: :curry: :sandal:",
+    "oomp_word_emoji_list": [
+        ":pushpin:",
+        ":curry:",
+        ":sandal:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "16",

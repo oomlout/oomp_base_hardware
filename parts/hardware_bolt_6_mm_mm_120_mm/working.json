@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2C58Q",
     "md5_10": "3be78ad596",
     "md5_10_upper": "3BE78AD596",
+    "oomp_word": "bear helicopter envelope",
+    "oomp_word_list": [
+        "bear",
+        "helicopter",
+        "envelope"
+    ],
+    "oomp_word_emoji": ":bear: :helicopter: :envelope:",
+    "oomp_word_emoji_list": [
+        ":bear:",
+        ":helicopter:",
+        ":envelope:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "120",

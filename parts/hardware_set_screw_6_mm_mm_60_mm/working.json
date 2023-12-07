@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "92AOJ",
     "md5_10": "e84b9386bf",
     "md5_10_upper": "E84B9386BF",
+    "oomp_word": "tram penguin books",
+    "oomp_word_list": [
+        "tram",
+        "penguin",
+        "books"
+    ],
+    "oomp_word_emoji": ":tram: :penguin: :books:",
+    "oomp_word_emoji_list": [
+        ":tram:",
+        ":penguin:",
+        ":books:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "60",

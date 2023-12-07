@@ -56,6 +56,16 @@ name_no_size: 60 Mm
 name_no_size_short: 60 Mm
 name_no_type: 5 Mm Mm 60 Mm
 oomp_key: oomp_hardware_set_screw_5_mm_mm_60_mm
+oomp_word: mouse nine pig
+oomp_word_emoji: ':mouse: :nine: :pig:'
+oomp_word_emoji_list:
+- ':mouse:'
+- ':nine:'
+- ':pig:'
+oomp_word_list:
+- mouse
+- nine
+- pig
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

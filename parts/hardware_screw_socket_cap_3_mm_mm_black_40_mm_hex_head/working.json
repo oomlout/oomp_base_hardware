@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "90YY7",
     "md5_10": "e759ef6ab0",
     "md5_10_upper": "E759EF6AB0",
+    "oomp_word": "helicopter dragon truck",
+    "oomp_word_list": [
+        "helicopter",
+        "dragon",
+        "truck"
+    ],
+    "oomp_word_emoji": ":helicopter: :dragon: :truck:",
+    "oomp_word_emoji_list": [
+        ":helicopter:",
+        ":dragon:",
+        ":truck:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "40",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "26VZF",
     "md5_10": "38296b6f4e",
     "md5_10_upper": "38296B6F4E",
+    "oomp_word": "frog sunny chestnut",
+    "oomp_word_list": [
+        "frog",
+        "sunny",
+        "chestnut"
+    ],
+    "oomp_word_emoji": ":frog: :sunny: :chestnut:",
+    "oomp_word_emoji_list": [
+        ":frog:",
+        ":sunny:",
+        ":chestnut:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "150",

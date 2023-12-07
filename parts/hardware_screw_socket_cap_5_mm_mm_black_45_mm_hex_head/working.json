@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6G636",
     "md5_10": "a548d2b9a1",
     "md5_10_upper": "A548D2B9A1",
+    "oomp_word": "headphones hatched_chick pineapple",
+    "oomp_word_list": [
+        "headphones",
+        "hatched_chick",
+        "pineapple"
+    ],
+    "oomp_word_emoji": ":headphones: :hatched_chick: :pineapple:",
+    "oomp_word_emoji_list": [
+        ":headphones:",
+        ":hatched_chick:",
+        ":pineapple:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "45",

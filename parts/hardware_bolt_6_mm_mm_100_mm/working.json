@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3SQI3",
     "md5_10": "61582b157a",
     "md5_10_upper": "61582B157A",
+    "oomp_word": "bouquet water_buffalo cloud",
+    "oomp_word_list": [
+        "bouquet",
+        "water_buffalo",
+        "cloud"
+    ],
+    "oomp_word_emoji": ":bouquet: :water_buffalo: :cloud:",
+    "oomp_word_emoji_list": [
+        ":bouquet:",
+        ":water_buffalo:",
+        ":cloud:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "100",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7BUKL",
     "md5_10": "bbd685f101",
     "md5_10_upper": "BBD685F101",
+    "oomp_word": "curry school bulb",
+    "oomp_word_list": [
+        "curry",
+        "school",
+        "bulb"
+    ],
+    "oomp_word_emoji": ":curry: :school: :bulb:",
+    "oomp_word_emoji_list": [
+        ":curry:",
+        ":school:",
+        ":bulb:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "70",

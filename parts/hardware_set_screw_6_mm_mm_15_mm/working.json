@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7JMXF",
     "md5_10": "c161d36b0e",
     "md5_10_upper": "C161D36B0E",
+    "oomp_word": "doughnut bouquet tomato",
+    "oomp_word_list": [
+        "doughnut",
+        "bouquet",
+        "tomato"
+    ],
+    "oomp_word_emoji": ":doughnut: :bouquet: :tomato:",
+    "oomp_word_emoji_list": [
+        ":doughnut:",
+        ":bouquet:",
+        ":tomato:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "15",

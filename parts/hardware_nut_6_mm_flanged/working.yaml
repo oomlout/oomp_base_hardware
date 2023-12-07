@@ -56,6 +56,16 @@ name_no_size: Flanged
 name_no_size_short: Flanged
 name_no_type: 6 Mm Flanged
 oomp_key: oomp_hardware_nut_6_mm_flanged
+oomp_word: headphones honeybee bug
+oomp_word_emoji: ':headphones: :honeybee: :bug:'
+oomp_word_emoji_list:
+- ':headphones:'
+- ':honeybee:'
+- ':bug:'
+oomp_word_list:
+- headphones
+- honeybee
+- bug
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

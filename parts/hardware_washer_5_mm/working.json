@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "52GX5",
     "md5_10": "81e729779a",
     "md5_10_upper": "81E729779A",
+    "oomp_word": "watch helicopter sunny",
+    "oomp_word_list": [
+        "watch",
+        "helicopter",
+        "sunny"
+    ],
+    "oomp_word_emoji": ":watch: :helicopter: :sunny:",
+    "oomp_word_emoji_list": [
+        ":watch:",
+        ":helicopter:",
+        ":sunny:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "",

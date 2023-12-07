@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "29036",
     "md5_10": "39aab26b46",
     "md5_10_upper": "39AAB26B46",
+    "oomp_word": "tiger lipstick handbag",
+    "oomp_word_list": [
+        "tiger",
+        "lipstick",
+        "handbag"
+    ],
+    "oomp_word_emoji": ":tiger: :lipstick: :handbag:",
+    "oomp_word_emoji_list": [
+        ":tiger:",
+        ":lipstick:",
+        ":handbag:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "90",

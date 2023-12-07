@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1OJS0",
     "md5_10": "2b1b205630",
     "md5_10_upper": "2B1B205630",
+    "oomp_word": "cloud muscle skull",
+    "oomp_word_list": [
+        "cloud",
+        "muscle",
+        "skull"
+    ],
+    "oomp_word_emoji": ":cloud: :muscle: :skull:",
+    "oomp_word_emoji_list": [
+        ":cloud:",
+        ":muscle:",
+        ":skull:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "6",

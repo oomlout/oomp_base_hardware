@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5HIMM",
     "md5_10": "8c9d8e9dbd",
     "md5_10_upper": "8C9D8E9DBD",
+    "oomp_word": "pill hearts clipboard",
+    "oomp_word_list": [
+        "pill",
+        "hearts",
+        "clipboard"
+    ],
+    "oomp_word_emoji": ":pill: :hearts: :clipboard:",
+    "oomp_word_emoji_list": [
+        ":pill:",
+        ":hearts:",
+        ":clipboard:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "60",

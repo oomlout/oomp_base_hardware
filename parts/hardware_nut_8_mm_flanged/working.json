@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9U2D0",
     "md5_10": "fc10744919",
     "md5_10_upper": "FC10744919",
+    "oomp_word": "up star fireworks",
+    "oomp_word_list": [
+        "up",
+        "star",
+        "fireworks"
+    ],
+    "oomp_word_emoji": ":up: :star: :fireworks:",
+    "oomp_word_emoji_list": [
+        ":up:",
+        ":star:",
+        ":fireworks:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "",

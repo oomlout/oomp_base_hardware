@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8A1RK",
     "md5_10": "d42f709734",
     "md5_10_upper": "D42F709734",
+    "oomp_word": "corn cyclone squirrel",
+    "oomp_word_list": [
+        "corn",
+        "cyclone",
+        "squirrel"
+    ],
+    "oomp_word_emoji": ":corn: :cyclone: :squirrel:",
+    "oomp_word_emoji_list": [
+        ":corn:",
+        ":cyclone:",
+        ":squirrel:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "12",

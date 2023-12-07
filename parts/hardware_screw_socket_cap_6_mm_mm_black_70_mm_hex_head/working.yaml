@@ -56,6 +56,16 @@ name_no_size: Black 70 Mm Hex Head
 name_no_size_short: Black 70 Mm Hex Head
 name_no_type: 6 Mm Mm Black 70 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_6_mm_mm_black_70_mm_hex_head
+oomp_word: airplane helicopter scream
+oomp_word_emoji: ':airplane: :helicopter: :scream:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':helicopter:'
+- ':scream:'
+oomp_word_list:
+- airplane
+- helicopter
+- scream
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

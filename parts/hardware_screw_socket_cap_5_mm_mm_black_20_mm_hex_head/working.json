@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7F7JI",
     "md5_10": "be3aeeced9",
     "md5_10_upper": "BE3AEECED9",
+    "oomp_word": "ramen koala ambulance",
+    "oomp_word_list": [
+        "ramen",
+        "koala",
+        "ambulance"
+    ],
+    "oomp_word_emoji": ":ramen: :koala: :ambulance:",
+    "oomp_word_emoji_list": [
+        ":ramen:",
+        ":koala:",
+        ":ambulance:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "20",

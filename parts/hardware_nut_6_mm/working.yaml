@@ -56,6 +56,16 @@ name_no_size: 6 Mm
 name_no_size_short: 6 Mm
 name_no_type: 6 Mm
 oomp_key: oomp_hardware_nut_6_mm
+oomp_word: bus rice cow
+oomp_word_emoji: ':bus: :rice: :cow:'
+oomp_word_emoji_list:
+- ':bus:'
+- ':rice:'
+- ':cow:'
+oomp_word_list:
+- bus
+- rice
+- cow
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

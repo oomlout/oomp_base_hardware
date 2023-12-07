@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6KJTF",
     "md5_10": "a86753a95b",
     "md5_10_upper": "A86753A95B",
+    "oomp_word": "shoe herb fish",
+    "oomp_word_list": [
+        "shoe",
+        "herb",
+        "fish"
+    ],
+    "oomp_word_emoji": ":shoe: :herb: :fish:",
+    "oomp_word_emoji_list": [
+        ":shoe:",
+        ":herb:",
+        ":fish:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "65",

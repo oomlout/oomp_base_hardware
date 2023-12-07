@@ -56,6 +56,16 @@ name_no_size: Flanged
 name_no_size_short: Flanged
 name_no_type: 2 7 Mm Flanged
 oomp_key: oomp_hardware_nut_2_7_mm_flanged
+oomp_word: recycle snowman sushi
+oomp_word_emoji: ':recycle: :snowman: :sushi:'
+oomp_word_emoji_list:
+- ':recycle:'
+- ':snowman:'
+- ':sushi:'
+oomp_word_list:
+- recycle
+- snowman
+- sushi
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

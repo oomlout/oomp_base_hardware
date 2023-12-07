@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "81C1",
     "md5_10": "05b8c1078f",
     "md5_10_upper": "05B8C1078F",
+    "oomp_word": "kissing hamburger doughnut",
+    "oomp_word_list": [
+        "kissing",
+        "hamburger",
+        "doughnut"
+    ],
+    "oomp_word_emoji": ":kissing: :hamburger: :doughnut:",
+    "oomp_word_emoji_list": [
+        ":kissing:",
+        ":hamburger:",
+        ":doughnut:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "50",

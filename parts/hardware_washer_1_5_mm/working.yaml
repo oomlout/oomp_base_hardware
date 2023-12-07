@@ -56,6 +56,16 @@ name_no_size: 1 5 Mm
 name_no_size_short: 1 5 Mm
 name_no_type: 1 5 Mm
 oomp_key: oomp_hardware_washer_1_5_mm
+oomp_word: santa lollipop books
+oomp_word_emoji: ':santa: :lollipop: :books:'
+oomp_word_emoji_list:
+- ':santa:'
+- ':lollipop:'
+- ':books:'
+oomp_word_list:
+- santa
+- lollipop
+- books
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

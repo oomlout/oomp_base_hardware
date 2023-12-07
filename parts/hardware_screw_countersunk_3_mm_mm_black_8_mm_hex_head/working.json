@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4V0JL",
     "md5_10": "7c9881ed67",
     "md5_10_upper": "7C9881ED67",
+    "oomp_word": "tv tennis watch",
+    "oomp_word_list": [
+        "tv",
+        "tennis",
+        "watch"
+    ],
+    "oomp_word_emoji": ":tv: :tennis: :watch:",
+    "oomp_word_emoji_list": [
+        ":tv:",
+        ":tennis:",
+        ":watch:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "8",

@@ -56,6 +56,16 @@ name_no_size: Black 35 Mm Hex Head
 name_no_size_short: Black 35 Mm Hex Head
 name_no_type: 5 Mm Mm Black 35 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_5_mm_mm_black_35_mm_hex_head
+oomp_word: alien santa sunglasses
+oomp_word_emoji: ':alien: :santa: :sunglasses:'
+oomp_word_emoji_list:
+- ':alien:'
+- ':santa:'
+- ':sunglasses:'
+oomp_word_list:
+- alien
+- santa
+- sunglasses
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

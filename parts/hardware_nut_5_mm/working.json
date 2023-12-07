@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4HSFG",
     "md5_10": "732e2ca55c",
     "md5_10_upper": "732E2CA55C",
+    "oomp_word": "flags zap snowflake",
+    "oomp_word_list": [
+        "flags",
+        "zap",
+        "snowflake"
+    ],
+    "oomp_word_emoji": ":flags: :zap: :snowflake:",
+    "oomp_word_emoji_list": [
+        ":flags:",
+        ":zap:",
+        ":snowflake:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "",

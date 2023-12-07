@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6G765",
     "md5_10": "a54e4da0da",
     "md5_10_upper": "A54E4DA0DA",
+    "oomp_word": "headphones honeybee bug",
+    "oomp_word_list": [
+        "headphones",
+        "honeybee",
+        "bug"
+    ],
+    "oomp_word_emoji": ":headphones: :honeybee: :bug:",
+    "oomp_word_emoji_list": [
+        ":headphones:",
+        ":honeybee:",
+        ":bug:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "",

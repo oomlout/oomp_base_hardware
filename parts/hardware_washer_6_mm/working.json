@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "47FTQ",
     "md5_10": "6bcfdec28d",
     "md5_10_upper": "6BCFDEC28D",
+    "oomp_word": "chestnut melon rainbow",
+    "oomp_word_list": [
+        "chestnut",
+        "melon",
+        "rainbow"
+    ],
+    "oomp_word_emoji": ":chestnut: :melon: :rainbow:",
+    "oomp_word_emoji_list": [
+        ":chestnut:",
+        ":melon:",
+        ":rainbow:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "",

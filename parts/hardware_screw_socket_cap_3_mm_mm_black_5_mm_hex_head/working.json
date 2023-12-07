@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5LEP6",
     "md5_10": "8f62aaa3ca",
     "md5_10_upper": "8F62AAA3CA",
+    "oomp_word": "calendar tulip lipstick",
+    "oomp_word_list": [
+        "calendar",
+        "tulip",
+        "lipstick"
+    ],
+    "oomp_word_emoji": ":calendar: :tulip: :lipstick:",
+    "oomp_word_emoji_list": [
+        ":calendar:",
+        ":tulip:",
+        ":lipstick:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "5",

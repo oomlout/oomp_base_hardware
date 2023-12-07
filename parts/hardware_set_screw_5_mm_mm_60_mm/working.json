@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "22EYK",
     "md5_10": "34fa3c1b6e",
     "md5_10_upper": "34FA3C1B6E",
+    "oomp_word": "mouse nine pig",
+    "oomp_word_list": [
+        "mouse",
+        "nine",
+        "pig"
+    ],
+    "oomp_word_emoji": ":mouse: :nine: :pig:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":nine:",
+        ":pig:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "60",

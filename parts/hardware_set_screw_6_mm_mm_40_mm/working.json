@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2146H",
     "md5_10": "340d697dcb",
     "md5_10_upper": "340D697DCB",
+    "oomp_word": "mouse heart cactus",
+    "oomp_word_list": [
+        "mouse",
+        "heart",
+        "cactus"
+    ],
+    "oomp_word_emoji": ":mouse: :heart: :cactus:",
+    "oomp_word_emoji_list": [
+        ":mouse:",
+        ":heart:",
+        ":cactus:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "40",

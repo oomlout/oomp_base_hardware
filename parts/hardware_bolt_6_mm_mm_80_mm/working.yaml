@@ -56,6 +56,16 @@ name_no_size: 80 Mm
 name_no_size_short: 80 Mm
 name_no_type: 6 Mm Mm 80 Mm
 oomp_key: oomp_hardware_bolt_6_mm_mm_80_mm
+oomp_word: question skull recycle
+oomp_word_emoji: ':question: :skull: :recycle:'
+oomp_word_emoji_list:
+- ':question:'
+- ':skull:'
+- ':recycle:'
+oomp_word_list:
+- question
+- skull
+- recycle
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

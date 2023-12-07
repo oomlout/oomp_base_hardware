@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "27LUE",
     "md5_10": "38ac565b8e",
     "md5_10_upper": "38AC565B8E",
+    "oomp_word": "frog shirt ram",
+    "oomp_word_list": [
+        "frog",
+        "shirt",
+        "ram"
+    ],
+    "oomp_word_emoji": ":frog: :shirt: :ram:",
+    "oomp_word_emoji_list": [
+        ":frog:",
+        ":shirt:",
+        ":ram:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "110",

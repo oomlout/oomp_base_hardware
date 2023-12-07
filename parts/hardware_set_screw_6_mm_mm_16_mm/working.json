@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "899HP",
     "md5_10": "d3a04db761",
     "md5_10_upper": "D3A04DB761",
+    "oomp_word": "tomato ring bug",
+    "oomp_word_list": [
+        "tomato",
+        "ring",
+        "bug"
+    ],
+    "oomp_word_emoji": ":tomato: :ring: :bug:",
+    "oomp_word_emoji_list": [
+        ":tomato:",
+        ":ring:",
+        ":bug:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "16",

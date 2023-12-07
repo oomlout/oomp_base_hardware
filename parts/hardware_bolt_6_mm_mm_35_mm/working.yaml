@@ -56,6 +56,16 @@ name_no_size: 35 Mm
 name_no_size_short: 35 Mm
 name_no_type: 6 Mm Mm 35 Mm
 oomp_key: oomp_hardware_bolt_6_mm_mm_35_mm
+oomp_word: bulb whale boat
+oomp_word_emoji: ':bulb: :whale: :boat:'
+oomp_word_emoji_list:
+- ':bulb:'
+- ':whale:'
+- ':boat:'
+oomp_word_list:
+- bulb
+- whale
+- boat
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

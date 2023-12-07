@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8K2Y2",
     "md5_10": "db53eaeba3",
     "md5_10_upper": "DB53EAEBA3",
+    "oomp_word": "tent fish tractor",
+    "oomp_word_list": [
+        "tent",
+        "fish",
+        "tractor"
+    ],
+    "oomp_word_emoji": ":tent: :fish: :tractor:",
+    "oomp_word_emoji_list": [
+        ":tent:",
+        ":fish:",
+        ":tractor:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "12",

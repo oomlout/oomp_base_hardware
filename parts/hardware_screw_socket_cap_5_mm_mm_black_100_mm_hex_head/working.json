@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "96R46",
     "md5_10": "eb77c60652",
     "md5_10_upper": "EB77C60652",
+    "oomp_word": "car gift lollipop",
+    "oomp_word_list": [
+        "car",
+        "gift",
+        "lollipop"
+    ],
+    "oomp_word_emoji": ":car: :gift: :lollipop:",
+    "oomp_word_emoji_list": [
+        ":car:",
+        ":gift:",
+        ":lollipop:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "100",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5K7NF",
     "md5_10": "8e88bb210c",
     "md5_10_upper": "8E88BB210C",
+    "oomp_word": "clipboard wrench curry",
+    "oomp_word_list": [
+        "clipboard",
+        "wrench",
+        "curry"
+    ],
+    "oomp_word_emoji": ":clipboard: :wrench: :curry:",
+    "oomp_word_emoji_list": [
+        ":clipboard:",
+        ":wrench:",
+        ":curry:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "20",

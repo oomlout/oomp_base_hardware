@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7DUI2",
     "md5_10": "bd42aac139",
     "md5_10_upper": "BD42AAC139",
+    "oomp_word": "rice sheep lipstick",
+    "oomp_word_list": [
+        "rice",
+        "sheep",
+        "lipstick"
+    ],
+    "oomp_word_emoji": ":rice: :sheep: :lipstick:",
+    "oomp_word_emoji_list": [
+        ":rice:",
+        ":sheep:",
+        ":lipstick:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "75",

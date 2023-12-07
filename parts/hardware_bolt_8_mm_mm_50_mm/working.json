@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "737KR",
     "md5_10": "b5b01be382",
     "md5_10_upper": "B5B01BE382",
+    "oomp_word": "tea crown muscle",
+    "oomp_word_list": [
+        "tea",
+        "crown",
+        "muscle"
+    ],
+    "oomp_word_emoji": ":tea: :crown: :muscle:",
+    "oomp_word_emoji_list": [
+        ":tea:",
+        ":crown:",
+        ":muscle:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "50",

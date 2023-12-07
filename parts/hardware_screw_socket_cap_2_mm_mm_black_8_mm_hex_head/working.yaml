@@ -56,6 +56,16 @@ name_no_size: Black 8 Mm Hex Head
 name_no_size_short: Black 8 Mm Hex Head
 name_no_type: 2 Mm Mm Black 8 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_2_mm_mm_black_8_mm_hex_head
+oomp_word: herb question kiss
+oomp_word_emoji: ':herb: :question: :kiss:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':question:'
+- ':kiss:'
+oomp_word_list:
+- herb
+- question
+- kiss
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

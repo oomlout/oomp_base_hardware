@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "23NM2",
     "md5_10": "35dc4aa346",
     "md5_10_upper": "35DC4AA346",
+    "oomp_word": "hamster factory chicken",
+    "oomp_word_list": [
+        "hamster",
+        "factory",
+        "chicken"
+    ],
+    "oomp_word_emoji": ":hamster: :factory: :chicken:",
+    "oomp_word_emoji_list": [
+        ":hamster:",
+        ":factory:",
+        ":chicken:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "12",

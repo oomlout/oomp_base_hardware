@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7K8MA",
     "md5_10": "c1cfa2395c",
     "md5_10_upper": "C1CFA2395C",
+    "oomp_word": "doughnut melon violin",
+    "oomp_word_list": [
+        "doughnut",
+        "melon",
+        "violin"
+    ],
+    "oomp_word_emoji": ":doughnut: :melon: :violin:",
+    "oomp_word_emoji_list": [
+        ":doughnut:",
+        ":melon:",
+        ":violin:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "20",

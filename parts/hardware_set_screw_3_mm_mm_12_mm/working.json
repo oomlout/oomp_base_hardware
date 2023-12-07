@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3KUME",
     "md5_10": "5bbb069b09",
     "md5_10_upper": "5BBB069B09",
+    "oomp_word": "rooster curry sleeping",
+    "oomp_word_list": [
+        "rooster",
+        "curry",
+        "sleeping"
+    ],
+    "oomp_word_emoji": ":rooster: :curry: :sleeping:",
+    "oomp_word_emoji_list": [
+        ":rooster:",
+        ":curry:",
+        ":sleeping:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "12",

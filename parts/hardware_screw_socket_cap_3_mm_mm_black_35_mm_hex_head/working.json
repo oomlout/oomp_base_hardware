@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4DXNP",
     "md5_10": "706fa546b4",
     "md5_10_upper": "706FA546B4",
+    "oomp_word": "squirrel moon headphones",
+    "oomp_word_list": [
+        "squirrel",
+        "moon",
+        "headphones"
+    ],
+    "oomp_word_emoji": ":squirrel: :moon: :headphones:",
+    "oomp_word_emoji_list": [
+        ":squirrel:",
+        ":moon:",
+        ":headphones:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "35",

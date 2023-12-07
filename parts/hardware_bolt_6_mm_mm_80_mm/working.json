@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "QVB2",
     "md5_10": "1320fe0ced",
     "md5_10_upper": "1320FE0CED",
+    "oomp_word": "question skull recycle",
+    "oomp_word_list": [
+        "question",
+        "skull",
+        "recycle"
+    ],
+    "oomp_word_emoji": ":question: :skull: :recycle:",
+    "oomp_word_emoji_list": [
+        ":question:",
+        ":skull:",
+        ":recycle:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "80",

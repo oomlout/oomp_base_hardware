@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4VOO6",
     "md5_10": "7d12a6d709",
     "md5_10_upper": "7D12A6D709",
+    "oomp_word": "phone anger trumpet",
+    "oomp_word_list": [
+        "phone",
+        "anger",
+        "trumpet"
+    ],
+    "oomp_word_emoji": ":phone: :anger: :trumpet:",
+    "oomp_word_emoji_list": [
+        ":phone:",
+        ":anger:",
+        ":trumpet:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "",

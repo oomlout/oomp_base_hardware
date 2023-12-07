@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3MGF8",
     "md5_10": "5cdfa40200",
     "md5_10_upper": "5CDFA40200",
+    "oomp_word": "ox fountain book",
+    "oomp_word_list": [
+        "ox",
+        "fountain",
+        "book"
+    ],
+    "oomp_word_emoji": ":ox: :fountain: :book:",
+    "oomp_word_emoji_list": [
+        ":ox:",
+        ":fountain:",
+        ":book:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "40",

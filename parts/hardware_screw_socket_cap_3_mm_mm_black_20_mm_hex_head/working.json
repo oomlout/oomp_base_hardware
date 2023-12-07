@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5BINX",
     "md5_10": "88583d16f5",
     "md5_10_upper": "88583D16F5",
+    "oomp_word": "wrench water_buffalo cow",
+    "oomp_word_list": [
+        "wrench",
+        "water_buffalo",
+        "cow"
+    ],
+    "oomp_word_emoji": ":wrench: :water_buffalo: :cow:",
+    "oomp_word_emoji_list": [
+        ":wrench:",
+        ":water_buffalo:",
+        ":cow:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "20",

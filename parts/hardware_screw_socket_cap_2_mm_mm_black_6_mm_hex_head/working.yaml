@@ -56,6 +56,16 @@ name_no_size: Black 6 Mm Hex Head
 name_no_size_short: Black 6 Mm Hex Head
 name_no_type: 2 Mm Mm Black 6 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_2_mm_mm_black_6_mm_hex_head
+oomp_word: leaves cloud sparkles
+oomp_word_emoji: ':leaves: :cloud: :sparkles:'
+oomp_word_emoji_list:
+- ':leaves:'
+- ':cloud:'
+- ':sparkles:'
+oomp_word_list:
+- leaves
+- cloud
+- sparkles
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

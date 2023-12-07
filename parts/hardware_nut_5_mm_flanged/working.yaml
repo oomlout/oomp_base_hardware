@@ -56,6 +56,16 @@ name_no_size: Flanged
 name_no_size_short: Flanged
 name_no_type: 5 Mm Flanged
 oomp_key: oomp_hardware_nut_5_mm_flanged
+oomp_word: baby angry peach
+oomp_word_emoji: ':baby: :angry: :peach:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':angry:'
+- ':peach:'
+oomp_word_list:
+- baby
+- angry
+- peach
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

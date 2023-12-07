@@ -56,6 +56,16 @@ name_no_size: 95 Mm
 name_no_size_short: 95 Mm
 name_no_type: 8 Mm Mm 95 Mm
 oomp_key: oomp_hardware_bolt_8_mm_mm_95_mm
+oomp_word: turtle snail snowflake
+oomp_word_emoji: ':turtle: :snail: :snowflake:'
+oomp_word_emoji_list:
+- ':turtle:'
+- ':snail:'
+- ':snowflake:'
+oomp_word_list:
+- turtle
+- snail
+- snowflake
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

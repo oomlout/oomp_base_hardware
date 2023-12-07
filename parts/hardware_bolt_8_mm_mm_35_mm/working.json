@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1AOXF",
     "md5_10": "213db3c977",
     "md5_10_upper": "213DB3C977",
+    "oomp_word": "feet cow eyeglasses",
+    "oomp_word_list": [
+        "feet",
+        "cow",
+        "eyeglasses"
+    ],
+    "oomp_word_emoji": ":feet: :cow: :eyeglasses:",
+    "oomp_word_emoji_list": [
+        ":feet:",
+        ":cow:",
+        ":eyeglasses:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "35",

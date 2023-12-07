@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8LEBS",
     "md5_10": "dc43c8c218",
     "md5_10_upper": "DC43C8C218",
+    "oomp_word": "factory elephant apple",
+    "oomp_word_list": [
+        "factory",
+        "elephant",
+        "apple"
+    ],
+    "oomp_word_emoji": ":factory: :elephant: :apple:",
+    "oomp_word_emoji_list": [
+        ":factory:",
+        ":elephant:",
+        ":apple:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

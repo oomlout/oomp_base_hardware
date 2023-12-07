@@ -56,6 +56,16 @@ name_no_size: Flanged
 name_no_size_short: Flanged
 name_no_type: 2 5 Mm Flanged
 oomp_key: oomp_hardware_nut_2_5_mm_flanged
+oomp_word: bowtie trident cake
+oomp_word_emoji: ':bowtie: :trident: :cake:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':trident:'
+- ':cake:'
+oomp_word_list:
+- bowtie
+- trident
+- cake
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

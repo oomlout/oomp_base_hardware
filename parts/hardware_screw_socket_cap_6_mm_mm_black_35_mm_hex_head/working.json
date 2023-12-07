@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "UPWA",
     "md5_10": "15de9a97e1",
     "md5_10_upper": "15DE9A97E1",
+    "oomp_word": "poop rainbow golf",
+    "oomp_word_list": [
+        "poop",
+        "rainbow",
+        "golf"
+    ],
+    "oomp_word_emoji": ":poop: :rainbow: :golf:",
+    "oomp_word_emoji_list": [
+        ":poop:",
+        ":rainbow:",
+        ":golf:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "35",

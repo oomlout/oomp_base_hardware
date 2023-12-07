@@ -56,6 +56,16 @@ name_no_size: Locking
 name_no_size_short: Locking
 name_no_type: 3 Mm Locking
 oomp_key: oomp_hardware_nut_3_mm_locking
+oomp_word: ghost toilet tophat
+oomp_word_emoji: ':ghost: :toilet: :tophat:'
+oomp_word_emoji_list:
+- ':ghost:'
+- ':toilet:'
+- ':tophat:'
+oomp_word_list:
+- ghost
+- toilet
+- tophat
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

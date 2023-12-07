@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5XXYL",
     "md5_10": "984f2d60ed",
     "md5_10_upper": "984F2D60ED",
+    "oomp_word": "tennis ant snowman",
+    "oomp_word_list": [
+        "tennis",
+        "ant",
+        "snowman"
+    ],
+    "oomp_word_emoji": ":tennis: :ant: :snowman:",
+    "oomp_word_emoji_list": [
+        ":tennis:",
+        ":ant:",
+        ":snowman:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

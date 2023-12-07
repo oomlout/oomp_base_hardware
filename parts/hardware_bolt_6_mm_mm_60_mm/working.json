@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4QV5H",
     "md5_10": "79a435cb4d",
     "md5_10_upper": "79A435CB4D",
+    "oomp_word": "balloon book hamster",
+    "oomp_word_list": [
+        "balloon",
+        "book",
+        "hamster"
+    ],
+    "oomp_word_emoji": ":balloon: :book: :hamster:",
+    "oomp_word_emoji_list": [
+        ":balloon:",
+        ":book:",
+        ":hamster:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "60",

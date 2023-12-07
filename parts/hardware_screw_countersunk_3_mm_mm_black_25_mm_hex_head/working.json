@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8I99T",
     "md5_10": "da0771d3c3",
     "md5_10_upper": "DA0771D3C3",
+    "oomp_word": "hotel cry bamboo",
+    "oomp_word_list": [
+        "hotel",
+        "cry",
+        "bamboo"
+    ],
+    "oomp_word_emoji": ":hotel: :cry: :bamboo:",
+    "oomp_word_emoji_list": [
+        ":hotel:",
+        ":cry:",
+        ":bamboo:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "25",

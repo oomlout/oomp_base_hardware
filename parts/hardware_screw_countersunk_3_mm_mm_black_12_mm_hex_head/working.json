@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2I8AS",
     "md5_10": "403c84a13a",
     "md5_10_upper": "403C84A13A",
+    "oomp_word": "racehorse pig key",
+    "oomp_word_list": [
+        "racehorse",
+        "pig",
+        "key"
+    ],
+    "oomp_word_emoji": ":racehorse: :pig: :key:",
+    "oomp_word_emoji_list": [
+        ":racehorse:",
+        ":pig:",
+        ":key:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "12",

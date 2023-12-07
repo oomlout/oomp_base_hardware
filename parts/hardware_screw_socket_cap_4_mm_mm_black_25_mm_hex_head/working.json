@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2AOTB",
     "md5_10": "3ade1ffbb6",
     "md5_10_upper": "3ADE1FFBB6",
+    "oomp_word": "koala rainbow princess",
+    "oomp_word_list": [
+        "koala",
+        "rainbow",
+        "princess"
+    ],
+    "oomp_word_emoji": ":koala: :rainbow: :princess:",
+    "oomp_word_emoji_list": [
+        ":koala:",
+        ":rainbow:",
+        ":princess:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "25",

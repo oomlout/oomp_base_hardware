@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8XOM6",
     "md5_10": "e502de837f",
     "md5_10_upper": "E502DE837F",
+    "oomp_word": "rocket blush rainbow",
+    "oomp_word_list": [
+        "rocket",
+        "blush",
+        "rainbow"
+    ],
+    "oomp_word_emoji": ":rocket: :blush: :rainbow:",
+    "oomp_word_emoji_list": [
+        ":rocket:",
+        ":blush:",
+        ":rainbow:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "110",

@@ -56,6 +56,16 @@ name_no_size: Flanged
 name_no_size_short: Flanged
 name_no_type: 3 Mm Flanged
 oomp_key: oomp_hardware_nut_3_mm_flanged
+oomp_word: grapes herb guitar
+oomp_word_emoji: ':grapes: :herb: :guitar:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':herb:'
+- ':guitar:'
+oomp_word_list:
+- grapes
+- herb
+- guitar
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

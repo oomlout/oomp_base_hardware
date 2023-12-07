@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "FQI2",
     "md5_10": "0b33ea391a",
     "md5_10_upper": "0B33EA391A",
+    "oomp_word": "sunglasses dog tractor",
+    "oomp_word_list": [
+        "sunglasses",
+        "dog",
+        "tractor"
+    ],
+    "oomp_word_emoji": ":sunglasses: :dog: :tractor:",
+    "oomp_word_emoji_list": [
+        ":sunglasses:",
+        ":dog:",
+        ":tractor:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "14",

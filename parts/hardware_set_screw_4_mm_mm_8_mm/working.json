@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1X7N3",
     "md5_10": "3145ef6584",
     "md5_10_upper": "3145EF6584",
+    "oomp_word": "ocean snake truck",
+    "oomp_word_list": [
+        "ocean",
+        "snake",
+        "truck"
+    ],
+    "oomp_word_emoji": ":ocean: :snake: :truck:",
+    "oomp_word_emoji_list": [
+        ":ocean:",
+        ":snake:",
+        ":truck:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "8",

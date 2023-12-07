@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "83SW8",
     "md5_10": "cfbd08e0df",
     "md5_10_upper": "CFBD08E0DF",
+    "oomp_word": "melon rice scream",
+    "oomp_word_list": [
+        "melon",
+        "rice",
+        "scream"
+    ],
+    "oomp_word_emoji": ":melon: :rice: :scream:",
+    "oomp_word_emoji_list": [
+        ":melon:",
+        ":rice:",
+        ":scream:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "40",

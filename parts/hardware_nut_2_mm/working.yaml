@@ -56,6 +56,16 @@ name_no_size: 2 Mm
 name_no_size_short: 2 Mm
 name_no_type: 2 Mm
 oomp_key: oomp_hardware_nut_2_mm
+oomp_word: five smile bear
+oomp_word_emoji: ':five: :smile: :bear:'
+oomp_word_emoji_list:
+- ':five:'
+- ':smile:'
+- ':bear:'
+oomp_word_list:
+- five
+- smile
+- bear
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

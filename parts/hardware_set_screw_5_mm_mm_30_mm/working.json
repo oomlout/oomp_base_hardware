@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3YPHW",
     "md5_10": "659894e5cf",
     "md5_10_upper": "659894E5CF",
+    "oomp_word": "maple_leaf tennis microscope",
+    "oomp_word_list": [
+        "maple_leaf",
+        "tennis",
+        "microscope"
+    ],
+    "oomp_word_emoji": ":maple_leaf: :tennis: :microscope:",
+    "oomp_word_emoji_list": [
+        ":maple_leaf:",
+        ":tennis:",
+        ":microscope:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "30",

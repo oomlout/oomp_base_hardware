@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2969W",
     "md5_10": "39ca046092",
     "md5_10_upper": "39CA046092",
+    "oomp_word": "tiger cherries wink",
+    "oomp_word_list": [
+        "tiger",
+        "cherries",
+        "wink"
+    ],
+    "oomp_word_emoji": ":tiger: :cherries: :wink:",
+    "oomp_word_emoji_list": [
+        ":tiger:",
+        ":cherries:",
+        ":wink:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "20",

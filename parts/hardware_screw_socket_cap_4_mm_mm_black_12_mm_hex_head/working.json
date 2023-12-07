@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1MSI6",
     "md5_10": "29dace41b9",
     "md5_10_upper": "29DACE41B9",
+    "oomp_word": "sunny hotel peach",
+    "oomp_word_list": [
+        "sunny",
+        "hotel",
+        "peach"
+    ],
+    "oomp_word_emoji": ":sunny: :hotel: :peach:",
+    "oomp_word_emoji_list": [
+        ":sunny:",
+        ":hotel:",
+        ":peach:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "12",

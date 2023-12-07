@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4L38V",
     "md5_10": "7587afe623",
     "md5_10_upper": "7587AFE623",
+    "oomp_word": "ghost toilet tophat",
+    "oomp_word_list": [
+        "ghost",
+        "toilet",
+        "tophat"
+    ],
+    "oomp_word_emoji": ":ghost: :toilet: :tophat:",
+    "oomp_word_emoji_list": [
+        ":ghost:",
+        ":toilet:",
+        ":tophat:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "",

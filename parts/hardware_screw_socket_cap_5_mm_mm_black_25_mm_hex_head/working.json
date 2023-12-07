@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "92QD3",
     "md5_10": "e89af7b19d",
     "md5_10_upper": "E89AF7B19D",
+    "oomp_word": "tram golf six",
+    "oomp_word_list": [
+        "tram",
+        "golf",
+        "six"
+    ],
+    "oomp_word_emoji": ":tram: :golf: :six:",
+    "oomp_word_emoji_list": [
+        ":tram:",
+        ":golf:",
+        ":six:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "25",

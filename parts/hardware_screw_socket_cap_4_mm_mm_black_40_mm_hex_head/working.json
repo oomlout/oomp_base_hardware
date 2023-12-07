@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "361ZZ",
     "md5_10": "51329f0d2a",
     "md5_10_upper": "51329F0D2A",
+    "oomp_word": "snail cat diamonds",
+    "oomp_word_list": [
+        "snail",
+        "cat",
+        "diamonds"
+    ],
+    "oomp_word_emoji": ":snail: :cat: :diamonds:",
+    "oomp_word_emoji_list": [
+        ":snail:",
+        ":cat:",
+        ":diamonds:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "40",

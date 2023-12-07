@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4Z7Y6",
     "md5_10": "7f96fe586b",
     "md5_10_upper": "7F96FE586B",
+    "oomp_word": "speaker basketball recycle",
+    "oomp_word_list": [
+        "speaker",
+        "basketball",
+        "recycle"
+    ],
+    "oomp_word_emoji": ":speaker: :basketball: :recycle:",
+    "oomp_word_emoji_list": [
+        ":speaker:",
+        ":basketball:",
+        ":recycle:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "10",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5R627",
     "md5_10": "937c6f1e96",
     "md5_10_upper": "937C6F1E96",
+    "oomp_word": "books tv moon",
+    "oomp_word_list": [
+        "books",
+        "tv",
+        "moon"
+    ],
+    "oomp_word_emoji": ":books: :tv: :moon:",
+    "oomp_word_emoji_list": [
+        ":books:",
+        ":tv:",
+        ":moon:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "8",

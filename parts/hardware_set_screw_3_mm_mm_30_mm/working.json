@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4VUK0",
     "md5_10": "7d30701fbd",
     "md5_10_upper": "7D30701FBD",
+    "oomp_word": "phone foggy squirrel",
+    "oomp_word_list": [
+        "phone",
+        "foggy",
+        "squirrel"
+    ],
+    "oomp_word_emoji": ":phone: :foggy: :squirrel:",
+    "oomp_word_emoji_list": [
+        ":phone:",
+        ":foggy:",
+        ":squirrel:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "30",

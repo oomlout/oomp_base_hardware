@@ -56,6 +56,16 @@ name_no_size: Locking
 name_no_size_short: Locking
 name_no_type: 2 Mm Locking
 oomp_key: oomp_hardware_nut_2_mm_locking
+oomp_word: ocean wolf palm_tree
+oomp_word_emoji: ':ocean: :wolf: :palm_tree:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':wolf:'
+- ':palm_tree:'
+oomp_word_list:
+- ocean
+- wolf
+- palm_tree
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

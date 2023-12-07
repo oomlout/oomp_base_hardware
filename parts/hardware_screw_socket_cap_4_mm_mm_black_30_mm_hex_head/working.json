@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6H3A2",
     "md5_10": "a5f0dad0f5",
     "md5_10_upper": "A5F0DAD0F5",
+    "oomp_word": "headphones train hotel",
+    "oomp_word_list": [
+        "headphones",
+        "train",
+        "hotel"
+    ],
+    "oomp_word_emoji": ":headphones: :train: :hotel:",
+    "oomp_word_emoji_list": [
+        ":headphones:",
+        ":train:",
+        ":hotel:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "30",

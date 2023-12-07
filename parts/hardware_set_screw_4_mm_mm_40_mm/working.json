@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4SA9J",
     "md5_10": "7aa6f779d8",
     "md5_10_upper": "7AA6F779D8",
+    "oomp_word": "camera trumpet six",
+    "oomp_word_list": [
+        "camera",
+        "trumpet",
+        "six"
+    ],
+    "oomp_word_emoji": ":camera: :trumpet: :six:",
+    "oomp_word_emoji_list": [
+        ":camera:",
+        ":trumpet:",
+        ":six:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "40",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "78LRM",
     "md5_10": "b987326646",
     "md5_10_upper": "B987326646",
+    "oomp_word": "fries toilet cat",
+    "oomp_word_list": [
+        "fries",
+        "toilet",
+        "cat"
+    ],
+    "oomp_word_emoji": ":fries: :toilet: :cat:",
+    "oomp_word_emoji_list": [
+        ":fries:",
+        ":toilet:",
+        ":cat:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "6",

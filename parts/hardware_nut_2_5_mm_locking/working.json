@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "20TIT",
     "md5_10": "33d7754da8",
     "md5_10_upper": "33D7754DA8",
+    "oomp_word": "dog office ghost",
+    "oomp_word_list": [
+        "dog",
+        "office",
+        "ghost"
+    ],
+    "oomp_word_emoji": ":dog: :office: :ghost:",
+    "oomp_word_emoji_list": [
+        ":dog:",
+        ":office:",
+        ":ghost:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "",

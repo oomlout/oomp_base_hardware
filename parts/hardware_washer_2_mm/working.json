@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6CE82",
     "md5_10": "a29902a890",
     "md5_10_upper": "A29902A890",
+    "oomp_word": "violin bowling blush",
+    "oomp_word_list": [
+        "violin",
+        "bowling",
+        "blush"
+    ],
+    "oomp_word_emoji": ":violin: :bowling: :blush:",
+    "oomp_word_emoji_list": [
+        ":violin:",
+        ":bowling:",
+        ":blush:"
+    ],
     "size_only_numbers": "2",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "",

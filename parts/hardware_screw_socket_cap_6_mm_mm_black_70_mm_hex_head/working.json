@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "90C94",
     "md5_10": "e6e7080c3b",
     "md5_10_upper": "E6E7080C3B",
+    "oomp_word": "airplane helicopter scream",
+    "oomp_word_list": [
+        "airplane",
+        "helicopter",
+        "scream"
+    ],
+    "oomp_word_emoji": ":airplane: :helicopter: :scream:",
+    "oomp_word_emoji_list": [
+        ":airplane:",
+        ":helicopter:",
+        ":scream:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "70",

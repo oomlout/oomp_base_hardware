@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7QG2K",
     "md5_10": "c63adc969d",
     "md5_10_upper": "C63ADC969D",
+    "oomp_word": "lollipop koala factory",
+    "oomp_word_list": [
+        "lollipop",
+        "koala",
+        "factory"
+    ],
+    "oomp_word_emoji": ":lollipop: :koala: :factory:",
+    "oomp_word_emoji_list": [
+        ":lollipop:",
+        ":koala:",
+        ":factory:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "4",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7PMMC",
     "md5_10": "c5a5c4ce22",
     "md5_10_upper": "C5A5C4CE22",
+    "oomp_word": "candy headphones cookie",
+    "oomp_word_list": [
+        "candy",
+        "headphones",
+        "cookie"
+    ],
+    "oomp_word_emoji": ":candy: :headphones: :cookie:",
+    "oomp_word_emoji_list": [
+        ":candy:",
+        ":headphones:",
+        ":cookie:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "45",

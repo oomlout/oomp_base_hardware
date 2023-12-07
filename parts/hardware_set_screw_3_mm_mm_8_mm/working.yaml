@@ -56,6 +56,16 @@ name_no_size: 8 Mm
 name_no_size_short: 8 Mm
 name_no_type: 3 Mm Mm 8 Mm
 oomp_key: oomp_hardware_set_screw_3_mm_mm_8_mm
+oomp_word: bamboo whale calendar
+oomp_word_emoji: ':bamboo: :whale: :calendar:'
+oomp_word_emoji_list:
+- ':bamboo:'
+- ':whale:'
+- ':calendar:'
+oomp_word_list:
+- bamboo
+- whale
+- calendar
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

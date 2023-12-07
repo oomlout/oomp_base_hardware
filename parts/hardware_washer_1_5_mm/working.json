@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4MU8J",
     "md5_10": "76c6939adf",
     "md5_10_upper": "76C6939ADF",
+    "oomp_word": "santa lollipop books",
+    "oomp_word_list": [
+        "santa",
+        "lollipop",
+        "books"
+    ],
+    "oomp_word_emoji": ":santa: :lollipop: :books:",
+    "oomp_word_emoji_list": [
+        ":santa:",
+        ":lollipop:",
+        ":books:"
+    ],
     "size_only_numbers": "15",
     "size_only_numbers_no_zeros": "15",
     "description_only_numbers": "",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4S8Z7",
     "md5_10": "7aa073b590",
     "md5_10_upper": "7AA073B590",
+    "oomp_word": "camera ring flags",
+    "oomp_word_list": [
+        "camera",
+        "ring",
+        "flags"
+    ],
+    "oomp_word_emoji": ":camera: :ring: :flags:",
+    "oomp_word_emoji_list": [
+        ":camera:",
+        ":ring:",
+        ":flags:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "25",

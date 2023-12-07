@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7RKC",
     "md5_10": "05874c94c9",
     "md5_10_upper": "05874C94C9",
+    "oomp_word": "kissing toilet turtle",
+    "oomp_word_list": [
+        "kissing",
+        "toilet",
+        "turtle"
+    ],
+    "oomp_word_emoji": ":kissing: :toilet: :turtle:",
+    "oomp_word_emoji_list": [
+        ":kissing:",
+        ":toilet:",
+        ":turtle:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "45",

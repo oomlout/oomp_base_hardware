@@ -56,6 +56,16 @@ name_no_size: Penny
 name_no_size_short: Penny
 name_no_type: 6 Mm Penny
 oomp_key: oomp_hardware_washer_6_mm_penny
+oomp_word: feet angry spaghetti
+oomp_word_emoji: ':feet: :angry: :spaghetti:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':angry:'
+- ':spaghetti:'
+oomp_word_list:
+- feet
+- angry
+- spaghetti
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

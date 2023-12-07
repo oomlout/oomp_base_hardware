@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "909ZS",
     "md5_10": "e6db985940",
     "md5_10_upper": "E6DB985940",
+    "oomp_word": "airplane tent tennis",
+    "oomp_word_list": [
+        "airplane",
+        "tent",
+        "tennis"
+    ],
+    "oomp_word_emoji": ":airplane: :tent: :tennis:",
+    "oomp_word_emoji_list": [
+        ":airplane:",
+        ":tent:",
+        ":tennis:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "80",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4KEUD",
     "md5_10": "750c258fda",
     "md5_10_upper": "750C258FDA",
+    "oomp_word": "ghost alien ear",
+    "oomp_word_list": [
+        "ghost",
+        "alien",
+        "ear"
+    ],
+    "oomp_word_emoji": ":ghost: :alien: :ear:",
+    "oomp_word_emoji_list": [
+        ":ghost:",
+        ":alien:",
+        ":ear:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "6",

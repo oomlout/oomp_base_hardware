@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3AEX1",
     "md5_10": "544d0593b8",
     "md5_10_upper": "544D0593B8",
+    "oomp_word": "whale bug kissing",
+    "oomp_word_list": [
+        "whale",
+        "bug",
+        "kissing"
+    ],
+    "oomp_word_emoji": ":whale: :bug: :kissing:",
+    "oomp_word_emoji_list": [
+        ":whale:",
+        ":bug:",
+        ":kissing:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "35",

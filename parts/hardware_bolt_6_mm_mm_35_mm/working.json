@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "57AAP",
     "md5_10": "8554e12479",
     "md5_10_upper": "8554E12479",
+    "oomp_word": "bulb whale boat",
+    "oomp_word_list": [
+        "bulb",
+        "whale",
+        "boat"
+    ],
+    "oomp_word_emoji": ":bulb: :whale: :boat:",
+    "oomp_word_emoji_list": [
+        ":bulb:",
+        ":whale:",
+        ":boat:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "35",

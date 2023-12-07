@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "59P2Z",
     "md5_10": "870c3b197b",
     "md5_10_upper": "870C3B197B",
+    "oomp_word": "toilet alien bear",
+    "oomp_word_list": [
+        "toilet",
+        "alien",
+        "bear"
+    ],
+    "oomp_word_emoji": ":toilet: :alien: :bear:",
+    "oomp_word_emoji_list": [
+        ":toilet:",
+        ":alien:",
+        ":bear:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "S77C",
     "md5_10": "14137825dc",
     "md5_10_upper": "14137825DC",
+    "oomp_word": "fire question bell",
+    "oomp_word_list": [
+        "fire",
+        "question",
+        "bell"
+    ],
+    "oomp_word_emoji": ":fire: :question: :bell:",
+    "oomp_word_emoji_list": [
+        ":fire:",
+        ":question:",
+        ":bell:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "8",

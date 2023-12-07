@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2AXEZ",
     "md5_10": "3b09ab0a63",
     "md5_10_upper": "3B09AB0A63",
+    "oomp_word": "bear angry boot",
+    "oomp_word_list": [
+        "bear",
+        "angry",
+        "boot"
+    ],
+    "oomp_word_emoji": ":bear: :angry: :boot:",
+    "oomp_word_emoji_list": [
+        ":bear:",
+        ":angry:",
+        ":boot:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "16",

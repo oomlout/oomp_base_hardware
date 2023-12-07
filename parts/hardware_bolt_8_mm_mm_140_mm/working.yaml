@@ -56,6 +56,16 @@ name_no_size: 140 Mm
 name_no_size_short: 140 Mm
 name_no_type: 8 Mm Mm 140 Mm
 oomp_key: oomp_hardware_bolt_8_mm_mm_140_mm
+oomp_word: crown beetle honey_pot
+oomp_word_emoji: ':crown: :beetle: :honey_pot:'
+oomp_word_emoji_list:
+- ':crown:'
+- ':beetle:'
+- ':honey_pot:'
+oomp_word_list:
+- crown
+- beetle
+- honey_pot
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

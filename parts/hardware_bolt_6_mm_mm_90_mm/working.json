@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2XK45",
     "md5_10": "4b26152079",
     "md5_10_upper": "4B26152079",
+    "oomp_word": "penguin eyes poop",
+    "oomp_word_list": [
+        "penguin",
+        "eyes",
+        "poop"
+    ],
+    "oomp_word_emoji": ":penguin: :eyes: :poop:",
+    "oomp_word_emoji_list": [
+        ":penguin:",
+        ":eyes:",
+        ":poop:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "90",

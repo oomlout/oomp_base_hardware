@@ -56,6 +56,16 @@ name_no_size: Black 20 Mm Hex Head
 name_no_size_short: Black 20 Mm Hex Head
 name_no_type: 4 Mm Mm Black 20 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_4_mm_mm_black_20_mm_hex_head
+oomp_word: peach panda_face clap
+oomp_word_emoji: ':peach: :panda_face: :clap:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':panda_face:'
+- ':clap:'
+oomp_word_list:
+- peach
+- panda_face
+- clap
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "LSS2",
     "md5_10": "0f84f252b2",
     "md5_10_upper": "0F84F252B2",
+    "oomp_word": "sparkles key one",
+    "oomp_word_list": [
+        "sparkles",
+        "key",
+        "one"
+    ],
+    "oomp_word_emoji": ":sparkles: :key: :one:",
+    "oomp_word_emoji_list": [
+        ":sparkles:",
+        ":key:",
+        ":one:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8YHUH",
     "md5_10": "e596d9dd2c",
     "md5_10_upper": "E596D9DD2C",
+    "oomp_word": "rocket basketball bank",
+    "oomp_word_list": [
+        "rocket",
+        "basketball",
+        "bank"
+    ],
+    "oomp_word_emoji": ":rocket: :basketball: :bank:",
+    "oomp_word_emoji_list": [
+        ":rocket:",
+        ":basketball:",
+        ":bank:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "40",

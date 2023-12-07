@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "525JS",
     "md5_10": "81ad98fd90",
     "md5_10_upper": "81AD98FD90",
+    "oomp_word": "watch dress tennis",
+    "oomp_word_list": [
+        "watch",
+        "dress",
+        "tennis"
+    ],
+    "oomp_word_emoji": ":watch: :dress: :tennis:",
+    "oomp_word_emoji_list": [
+        ":watch:",
+        ":dress:",
+        ":tennis:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "75",

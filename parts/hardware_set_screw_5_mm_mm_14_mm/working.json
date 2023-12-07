@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7YCJA",
     "md5_10": "cbdaf6a804",
     "md5_10_upper": "CBDAF6A804",
+    "oomp_word": "grapes hotel five",
+    "oomp_word_list": [
+        "grapes",
+        "hotel",
+        "five"
+    ],
+    "oomp_word_emoji": ":grapes: :hotel: :five:",
+    "oomp_word_emoji_list": [
+        ":grapes:",
+        ":hotel:",
+        ":five:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "14",

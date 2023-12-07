@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "P4Y8",
     "md5_10": "11e550eceb",
     "md5_10_upper": "11E550ECEB",
+    "oomp_word": "dizzy rocket beetle",
+    "oomp_word_list": [
+        "dizzy",
+        "rocket",
+        "beetle"
+    ],
+    "oomp_word_emoji": ":dizzy: :rocket: :beetle:",
+    "oomp_word_emoji_list": [
+        ":dizzy:",
+        ":rocket:",
+        ":beetle:"
+    ],
     "size_only_numbers": "15",
     "size_only_numbers_no_zeros": "15",
     "description_only_numbers": "",

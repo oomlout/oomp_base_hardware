@@ -56,6 +56,16 @@ name_no_size: Penny
 name_no_size_short: Penny
 name_no_type: 4 Mm Penny
 oomp_key: oomp_hardware_washer_4_mm_penny
+oomp_word: sunflower golf hatching_chick
+oomp_word_emoji: ':sunflower: :golf: :hatching_chick:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':golf:'
+- ':hatching_chick:'
+oomp_word_list:
+- sunflower
+- golf
+- hatching_chick
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

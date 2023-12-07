@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2PLO3",
     "md5_10": "457bf312e6",
     "md5_10_upper": "457BF312E6",
+    "oomp_word": "snake computer two",
+    "oomp_word_list": [
+        "snake",
+        "computer",
+        "two"
+    ],
+    "oomp_word_emoji": ":snake: :computer: :two:",
+    "oomp_word_emoji_list": [
+        ":snake:",
+        ":computer:",
+        ":two:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "5",

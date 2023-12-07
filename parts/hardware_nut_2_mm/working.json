@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9LJY3",
     "md5_10": "f6013b3e98",
     "md5_10_upper": "F6013B3E98",
+    "oomp_word": "five smile bear",
+    "oomp_word_list": [
+        "five",
+        "smile",
+        "bear"
+    ],
+    "oomp_word_emoji": ":five: :smile: :bear:",
+    "oomp_word_emoji_list": [
+        ":five:",
+        ":smile:",
+        ":bear:"
+    ],
     "size_only_numbers": "2",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "",

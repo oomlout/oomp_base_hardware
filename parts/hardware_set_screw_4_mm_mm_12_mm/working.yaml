@@ -56,6 +56,16 @@ name_no_size: 12 Mm
 name_no_size_short: 12 Mm
 name_no_type: 4 Mm Mm 12 Mm
 oomp_key: oomp_hardware_set_screw_4_mm_mm_12_mm
+oomp_word: muscle beer hospital
+oomp_word_emoji: ':muscle: :beer: :hospital:'
+oomp_word_emoji_list:
+- ':muscle:'
+- ':beer:'
+- ':hospital:'
+oomp_word_list:
+- muscle
+- beer
+- hospital
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

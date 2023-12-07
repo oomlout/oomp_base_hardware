@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6O7QH",
     "md5_10": "ab0329053e",
     "md5_10_upper": "AB0329053E",
+    "oomp_word": "boot grin sunny",
+    "oomp_word_list": [
+        "boot",
+        "grin",
+        "sunny"
+    ],
+    "oomp_word_emoji": ":boot: :grin: :sunny:",
+    "oomp_word_emoji_list": [
+        ":boot:",
+        ":grin:",
+        ":sunny:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "60",

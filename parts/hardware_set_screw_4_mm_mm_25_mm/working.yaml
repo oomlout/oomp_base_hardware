@@ -56,6 +56,16 @@ name_no_size: 25 Mm
 name_no_size_short: 25 Mm
 name_no_type: 4 Mm Mm 25 Mm
 oomp_key: oomp_hardware_set_screw_4_mm_mm_25_mm
+oomp_word: fountain leaves camera
+oomp_word_emoji: ':fountain: :leaves: :camera:'
+oomp_word_emoji_list:
+- ':fountain:'
+- ':leaves:'
+- ':camera:'
+oomp_word_list:
+- fountain
+- leaves
+- camera
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

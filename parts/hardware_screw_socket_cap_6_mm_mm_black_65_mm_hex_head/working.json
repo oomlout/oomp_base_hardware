@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8F8Z3",
     "md5_10": "d7e32ff57f",
     "md5_10_upper": "D7E32FF57F",
+    "oomp_word": "office rowboat cyclone",
+    "oomp_word_list": [
+        "office",
+        "rowboat",
+        "cyclone"
+    ],
+    "oomp_word_emoji": ":office: :rowboat: :cyclone:",
+    "oomp_word_emoji_list": [
+        ":office:",
+        ":rowboat:",
+        ":cyclone:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "65",

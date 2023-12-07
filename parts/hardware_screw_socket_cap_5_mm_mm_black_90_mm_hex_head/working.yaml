@@ -56,6 +56,16 @@ name_no_size: Black 90 Mm Hex Head
 name_no_size_short: Black 90 Mm Hex Head
 name_no_type: 5 Mm Mm Black 90 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_5_mm_mm_black_90_mm_hex_head
+oomp_word: lemon ocean paperclip
+oomp_word_emoji: ':lemon: :ocean: :paperclip:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':ocean:'
+- ':paperclip:'
+oomp_word_list:
+- lemon
+- ocean
+- paperclip
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

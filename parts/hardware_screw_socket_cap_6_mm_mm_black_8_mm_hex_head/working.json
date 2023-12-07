@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6HWON",
     "md5_10": "a685b70cae",
     "md5_10_upper": "A685B70CAE",
+    "oomp_word": "trumpet bulb pizza",
+    "oomp_word_list": [
+        "trumpet",
+        "bulb",
+        "pizza"
+    ],
+    "oomp_word_emoji": ":trumpet: :bulb: :pizza:",
+    "oomp_word_emoji_list": [
+        ":trumpet:",
+        ":bulb:",
+        ":pizza:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "8",

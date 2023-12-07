@@ -56,6 +56,16 @@ name_no_size: 25 Mm
 name_no_size_short: 25 Mm
 name_no_type: 3 Mm Mm 25 Mm
 oomp_key: oomp_hardware_set_screw_3_mm_mm_25_mm
+oomp_word: ramen cactus cry
+oomp_word_emoji: ':ramen: :cactus: :cry:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':cactus:'
+- ':cry:'
+oomp_word_list:
+- ramen
+- cactus
+- cry
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

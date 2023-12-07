@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5X0ZU",
     "md5_10": "97a84a9605",
     "md5_10_upper": "97A84A9605",
+    "oomp_word": "baseball shoe chicken",
+    "oomp_word_list": [
+        "baseball",
+        "shoe",
+        "chicken"
+    ],
+    "oomp_word_emoji": ":baseball: :shoe: :chicken:",
+    "oomp_word_emoji_list": [
+        ":baseball:",
+        ":shoe:",
+        ":chicken:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "30",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6KVG",
     "md5_10": "04af2cffd5",
     "md5_10_upper": "04AF2CFFD5",
+    "oomp_word": "wink tophat snowflake",
+    "oomp_word_list": [
+        "wink",
+        "tophat",
+        "snowflake"
+    ],
+    "oomp_word_emoji": ":wink: :tophat: :snowflake:",
+    "oomp_word_emoji_list": [
+        ":wink:",
+        ":tophat:",
+        ":snowflake:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

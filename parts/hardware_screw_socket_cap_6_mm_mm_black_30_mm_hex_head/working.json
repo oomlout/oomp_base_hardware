@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "19HL8",
     "md5_10": "20624c1866",
     "md5_10_upper": "20624C1866",
+    "oomp_word": "skull tulip turtle",
+    "oomp_word_list": [
+        "skull",
+        "tulip",
+        "turtle"
+    ],
+    "oomp_word_emoji": ":skull: :tulip: :turtle:",
+    "oomp_word_emoji_list": [
+        ":skull:",
+        ":tulip:",
+        ":turtle:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "30",

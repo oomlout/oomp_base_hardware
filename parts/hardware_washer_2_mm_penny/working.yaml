@@ -56,6 +56,16 @@ name_no_size: Penny
 name_no_size_short: Penny
 name_no_type: 2 Mm Penny
 oomp_key: oomp_hardware_washer_2_mm_penny
+oomp_word: tea cat crocodile
+oomp_word_emoji: ':tea: :cat: :crocodile:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':cat:'
+- ':crocodile:'
+oomp_word_list:
+- tea
+- cat
+- crocodile
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

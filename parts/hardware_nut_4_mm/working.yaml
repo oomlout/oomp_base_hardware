@@ -56,6 +56,16 @@ name_no_size: 4 Mm
 name_no_size_short: 4 Mm
 name_no_type: 4 Mm
 oomp_key: oomp_hardware_nut_4_mm
+oomp_word: bear grin phone
+oomp_word_emoji: ':bear: :grin: :phone:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':grin:'
+- ':phone:'
+oomp_word_list:
+- bear
+- grin
+- phone
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

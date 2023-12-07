@@ -56,6 +56,16 @@ name_no_size: 20 Mm
 name_no_size_short: 20 Mm
 name_no_type: 5 Mm Mm 20 Mm
 oomp_key: oomp_hardware_set_screw_5_mm_mm_20_mm
+oomp_word: sunflower elephant lock
+oomp_word_emoji: ':sunflower: :elephant: :lock:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':elephant:'
+- ':lock:'
+oomp_word_list:
+- sunflower
+- elephant
+- lock
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

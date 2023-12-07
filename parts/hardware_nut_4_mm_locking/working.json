@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9D1HY",
     "md5_10": "eff1d6193b",
     "md5_10_upper": "EFF1D6193B",
+    "oomp_word": "truck ticket school",
+    "oomp_word_list": [
+        "truck",
+        "ticket",
+        "school"
+    ],
+    "oomp_word_emoji": ":truck: :ticket: :school:",
+    "oomp_word_emoji_list": [
+        ":truck:",
+        ":ticket:",
+        ":school:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "",

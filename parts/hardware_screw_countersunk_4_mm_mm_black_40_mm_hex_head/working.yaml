@@ -56,6 +56,16 @@ name_no_size: Black 40 Mm Hex Head
 name_no_size_short: Black 40 Mm Hex Head
 name_no_type: 4 Mm Mm Black 40 Mm Hex Head
 oomp_key: oomp_hardware_screw_countersunk_4_mm_mm_black_40_mm_hex_head
+oomp_word: baby_chick bank ski
+oomp_word_emoji: ':baby_chick: :bank: :ski:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':bank:'
+- ':ski:'
+oomp_word_list:
+- baby_chick
+- bank
+- ski
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

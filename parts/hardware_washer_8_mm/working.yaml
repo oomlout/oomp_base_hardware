@@ -56,6 +56,16 @@ name_no_size: 8 Mm
 name_no_size_short: 8 Mm
 name_no_type: 8 Mm
 oomp_key: oomp_hardware_washer_8_mm
+oomp_word: stars helicopter ghost
+oomp_word_emoji: ':stars: :helicopter: :ghost:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':helicopter:'
+- ':ghost:'
+oomp_word_list:
+- stars
+- helicopter
+- ghost
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

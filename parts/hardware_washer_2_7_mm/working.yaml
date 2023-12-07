@@ -56,6 +56,16 @@ name_no_size: 2 7 Mm
 name_no_size_short: 2 7 Mm
 name_no_type: 2 7 Mm
 oomp_key: oomp_hardware_washer_2_7_mm
+oomp_word: stars hamster cat
+oomp_word_emoji: ':stars: :hamster: :cat:'
+oomp_word_emoji_list:
+- ':stars:'
+- ':hamster:'
+- ':cat:'
+oomp_word_list:
+- stars
+- hamster
+- cat
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

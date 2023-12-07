@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1DQCO",
     "md5_10": "2367a84649",
     "md5_10_upper": "2367A84649",
+    "oomp_word": "kiss herb shoe",
+    "oomp_word_list": [
+        "kiss",
+        "herb",
+        "shoe"
+    ],
+    "oomp_word_emoji": ":kiss: :herb: :shoe:",
+    "oomp_word_emoji_list": [
+        ":kiss:",
+        ":herb:",
+        ":shoe:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "20",

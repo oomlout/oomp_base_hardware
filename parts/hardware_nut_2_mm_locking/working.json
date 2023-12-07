@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1X4RU",
     "md5_10": "31376a81d6",
     "md5_10_upper": "31376A81D6",
+    "oomp_word": "ocean wolf palm_tree",
+    "oomp_word_list": [
+        "ocean",
+        "wolf",
+        "palm_tree"
+    ],
+    "oomp_word_emoji": ":ocean: :wolf: :palm_tree:",
+    "oomp_word_emoji_list": [
+        ":ocean:",
+        ":wolf:",
+        ":palm_tree:"
+    ],
     "size_only_numbers": "2",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "",

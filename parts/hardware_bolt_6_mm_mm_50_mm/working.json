@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7E9TW",
     "md5_10": "bd9044f62c",
     "md5_10_upper": "BD9044F62C",
+    "oomp_word": "rice scissors panda_face",
+    "oomp_word_list": [
+        "rice",
+        "scissors",
+        "panda_face"
+    ],
+    "oomp_word_emoji": ":rice: :scissors: :panda_face:",
+    "oomp_word_emoji_list": [
+        ":rice:",
+        ":scissors:",
+        ":panda_face:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "50",

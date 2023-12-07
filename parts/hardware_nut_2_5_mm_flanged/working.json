@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1EIR",
     "md5_10": "00ffc3c8c9",
     "md5_10_upper": "00FFC3C8C9",
+    "oomp_word": "bowtie trident cake",
+    "oomp_word_list": [
+        "bowtie",
+        "trident",
+        "cake"
+    ],
+    "oomp_word_emoji": ":bowtie: :trident: :cake:",
+    "oomp_word_emoji_list": [
+        ":bowtie:",
+        ":trident:",
+        ":cake:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "",

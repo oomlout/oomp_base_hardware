@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1AZ4R",
     "md5_10": "21715b9146",
     "md5_10_upper": "21715B9146",
+    "oomp_word": "feet bamboo rooster",
+    "oomp_word_list": [
+        "feet",
+        "bamboo",
+        "rooster"
+    ],
+    "oomp_word_emoji": ":feet: :bamboo: :rooster:",
+    "oomp_word_emoji_list": [
+        ":feet:",
+        ":bamboo:",
+        ":rooster:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "8",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2DVYW",
     "md5_10": "3d251873b5",
     "md5_10_upper": "3D251873B5",
+    "oomp_word": "cow ear hand",
+    "oomp_word_list": [
+        "cow",
+        "ear",
+        "hand"
+    ],
+    "oomp_word_emoji": ":cow: :ear: :hand:",
+    "oomp_word_emoji_list": [
+        ":cow:",
+        ":ear:",
+        ":hand:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "80",

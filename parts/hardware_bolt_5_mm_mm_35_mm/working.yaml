@@ -56,6 +56,16 @@ name_no_size: 35 Mm
 name_no_size_short: 35 Mm
 name_no_type: 5 Mm Mm 35 Mm
 oomp_key: oomp_hardware_bolt_5_mm_mm_35_mm
+oomp_word: cactus honey_pot office
+oomp_word_emoji: ':cactus: :honey_pot: :office:'
+oomp_word_emoji_list:
+- ':cactus:'
+- ':honey_pot:'
+- ':office:'
+oomp_word_list:
+- cactus
+- honey_pot
+- office
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

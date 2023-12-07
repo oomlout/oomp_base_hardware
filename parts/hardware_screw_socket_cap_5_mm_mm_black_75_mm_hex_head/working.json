@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "128M6",
     "md5_10": "1b391e40d1",
     "md5_10_upper": "1B391E40D1",
+    "oomp_word": "muscle tiger angel",
+    "oomp_word_list": [
+        "muscle",
+        "tiger",
+        "angel"
+    ],
+    "oomp_word_emoji": ":muscle: :tiger: :angel:",
+    "oomp_word_emoji_list": [
+        ":muscle:",
+        ":tiger:",
+        ":angel:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "75",

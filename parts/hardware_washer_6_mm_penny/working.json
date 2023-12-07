@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1AENU",
     "md5_10": "2109ba8a17",
     "md5_10_upper": "2109BA8A17",
+    "oomp_word": "feet angry spaghetti",
+    "oomp_word_list": [
+        "feet",
+        "angry",
+        "spaghetti"
+    ],
+    "oomp_word_emoji": ":feet: :angry: :spaghetti:",
+    "oomp_word_emoji_list": [
+        ":feet:",
+        ":angry:",
+        ":spaghetti:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "",

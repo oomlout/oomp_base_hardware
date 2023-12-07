@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "TSMO",
     "md5_10": "153630a2b9",
     "md5_10_upper": "153630A2B9",
+    "oomp_word": "poop rabbit foggy",
+    "oomp_word_list": [
+        "poop",
+        "rabbit",
+        "foggy"
+    ],
+    "oomp_word_emoji": ":poop: :rabbit: :foggy:",
+    "oomp_word_emoji_list": [
+        ":poop:",
+        ":rabbit:",
+        ":foggy:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "65",

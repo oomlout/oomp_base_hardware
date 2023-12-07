@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7WI72",
     "md5_10": "ca8b1ef96b",
     "md5_10_upper": "CA8B1EF96B",
+    "oomp_word": "cherries door angel",
+    "oomp_word_list": [
+        "cherries",
+        "door",
+        "angel"
+    ],
+    "oomp_word_emoji": ":cherries: :door: :angel:",
+    "oomp_word_emoji_list": [
+        ":cherries:",
+        ":door:",
+        ":angel:"
+    ],
     "size_only_numbers": "1",
     "size_only_numbers_no_zeros": "1",
     "description_only_numbers": "",

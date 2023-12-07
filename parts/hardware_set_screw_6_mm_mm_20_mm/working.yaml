@@ -56,6 +56,16 @@ name_no_size: 20 Mm
 name_no_size_short: 20 Mm
 name_no_type: 6 Mm Mm 20 Mm
 oomp_key: oomp_hardware_set_screw_6_mm_mm_20_mm
+oomp_word: pray tea rowboat
+oomp_word_emoji: ':pray: :tea: :rowboat:'
+oomp_word_emoji_list:
+- ':pray:'
+- ':tea:'
+- ':rowboat:'
+oomp_word_list:
+- pray
+- tea
+- rowboat
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

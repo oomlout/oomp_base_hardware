@@ -56,6 +56,16 @@ name_no_size: 75 Mm
 name_no_size_short: 75 Mm
 name_no_type: 8 Mm Mm 75 Mm
 oomp_key: oomp_hardware_bolt_8_mm_mm_75_mm
+oomp_word: wink fireworks palm_tree
+oomp_word_emoji: ':wink: :fireworks: :palm_tree:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':fireworks:'
+- ':palm_tree:'
+oomp_word_list:
+- wink
+- fireworks
+- palm_tree
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

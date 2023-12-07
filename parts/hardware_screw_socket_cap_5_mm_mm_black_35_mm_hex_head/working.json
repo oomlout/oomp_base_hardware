@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "HI4R",
     "md5_10": "0c760b533e",
     "md5_10_upper": "0C760B533E",
+    "oomp_word": "alien santa sunglasses",
+    "oomp_word_list": [
+        "alien",
+        "santa",
+        "sunglasses"
+    ],
+    "oomp_word_emoji": ":alien: :santa: :sunglasses:",
+    "oomp_word_emoji_list": [
+        ":alien:",
+        ":santa:",
+        ":sunglasses:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "35",

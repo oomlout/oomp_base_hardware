@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2O80P",
     "md5_10": "4480998caa",
     "md5_10_upper": "4480998CAA",
+    "oomp_word": "panda_face hourglass bowling",
+    "oomp_word_list": [
+        "panda_face",
+        "hourglass",
+        "bowling"
+    ],
+    "oomp_word_emoji": ":panda_face: :hourglass: :bowling:",
+    "oomp_word_emoji_list": [
+        ":panda_face:",
+        ":hourglass:",
+        ":bowling:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "",

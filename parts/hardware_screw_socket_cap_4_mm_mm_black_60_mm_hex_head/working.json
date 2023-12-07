@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1HW9N",
     "md5_10": "265e9ba578",
     "md5_10_upper": "265E9BA578",
+    "oomp_word": "eyes crocodile ski",
+    "oomp_word_list": [
+        "eyes",
+        "crocodile",
+        "ski"
+    ],
+    "oomp_word_emoji": ":eyes: :crocodile: :ski:",
+    "oomp_word_emoji_list": [
+        ":eyes:",
+        ":crocodile:",
+        ":ski:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "60",

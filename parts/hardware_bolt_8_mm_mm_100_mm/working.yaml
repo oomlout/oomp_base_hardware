@@ -56,6 +56,16 @@ name_no_size: 100 Mm
 name_no_size_short: 100 Mm
 name_no_type: 8 Mm Mm 100 Mm
 oomp_key: oomp_hardware_bolt_8_mm_mm_100_mm
+oomp_word: two tv ox
+oomp_word_emoji: ':two: :tv: :ox:'
+oomp_word_emoji_list:
+- ':two:'
+- ':tv:'
+- ':ox:'
+oomp_word_list:
+- two
+- tv
+- ox
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -56,6 +56,16 @@ name_no_size: Black 12 Mm Hex Head
 name_no_size_short: Black 12 Mm Hex Head
 name_no_type: 6 Mm Mm Black 12 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_6_mm_mm_black_12_mm_hex_head
+oomp_word: corn cyclone squirrel
+oomp_word_emoji: ':corn: :cyclone: :squirrel:'
+oomp_word_emoji_list:
+- ':corn:'
+- ':cyclone:'
+- ':squirrel:'
+oomp_word_list:
+- corn
+- cyclone
+- squirrel
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

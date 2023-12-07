@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "99XZ1",
     "md5_10": "edbd3ddf03",
     "md5_10_upper": "EDBD3DDF03",
+    "oomp_word": "bus rice cow",
+    "oomp_word_list": [
+        "bus",
+        "rice",
+        "cow"
+    ],
+    "oomp_word_emoji": ":bus: :rice: :cow:",
+    "oomp_word_emoji_list": [
+        ":bus:",
+        ":rice:",
+        ":cow:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "",

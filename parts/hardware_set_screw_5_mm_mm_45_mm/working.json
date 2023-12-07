@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "989JZ",
     "md5_10": "ec8b5f3902",
     "md5_10_upper": "EC8B5F3902",
+    "oomp_word": "taxi door leopard",
+    "oomp_word_list": [
+        "taxi",
+        "door",
+        "leopard"
+    ],
+    "oomp_word_emoji": ":taxi: :door: :leopard:",
+    "oomp_word_emoji_list": [
+        ":taxi:",
+        ":door:",
+        ":leopard:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "45",

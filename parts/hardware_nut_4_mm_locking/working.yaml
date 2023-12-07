@@ -56,6 +56,16 @@ name_no_size: Locking
 name_no_size_short: Locking
 name_no_type: 4 Mm Locking
 oomp_key: oomp_hardware_nut_4_mm_locking
+oomp_word: truck ticket school
+oomp_word_emoji: ':truck: :ticket: :school:'
+oomp_word_emoji_list:
+- ':truck:'
+- ':ticket:'
+- ':school:'
+oomp_word_list:
+- truck
+- ticket
+- school
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "49JUE",
     "md5_10": "6d50b65d70",
     "md5_10_upper": "6D50B65D70",
+    "oomp_word": "shell beetle beer",
+    "oomp_word_list": [
+        "shell",
+        "beetle",
+        "beer"
+    ],
+    "oomp_word_emoji": ":shell: :beetle: :beer:",
+    "oomp_word_emoji_list": [
+        ":shell:",
+        ":beetle:",
+        ":beer:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "4",

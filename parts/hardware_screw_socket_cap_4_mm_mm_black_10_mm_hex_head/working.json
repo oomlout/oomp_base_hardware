@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "86Q90",
     "md5_10": "d1d264ade5",
     "md5_10_upper": "D1D264ADE5",
+    "oomp_word": "pear pineapple sunflower",
+    "oomp_word_list": [
+        "pear",
+        "pineapple",
+        "sunflower"
+    ],
+    "oomp_word_emoji": ":pear: :pineapple: :sunflower:",
+    "oomp_word_emoji_list": [
+        ":pear:",
+        ":pineapple:",
+        ":sunflower:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "10",

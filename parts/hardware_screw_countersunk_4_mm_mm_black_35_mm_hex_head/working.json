@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3QQKI",
     "md5_10": "5fec0226be",
     "md5_10_upper": "5FEC0226BE",
+    "oomp_word": "leopard taxi blush",
+    "oomp_word_list": [
+        "leopard",
+        "taxi",
+        "blush"
+    ],
+    "oomp_word_emoji": ":leopard: :taxi: :blush:",
+    "oomp_word_emoji_list": [
+        ":leopard:",
+        ":taxi:",
+        ":blush:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "35",

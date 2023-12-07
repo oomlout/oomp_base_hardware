@@ -56,6 +56,16 @@ name_no_size: Locking
 name_no_size_short: Locking
 name_no_type: 2 5 Mm Locking
 oomp_key: oomp_hardware_nut_2_5_mm_locking
+oomp_word: dog office ghost
+oomp_word_emoji: ':dog: :office: :ghost:'
+oomp_word_emoji_list:
+- ':dog:'
+- ':office:'
+- ':ghost:'
+oomp_word_list:
+- dog
+- office
+- ghost
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

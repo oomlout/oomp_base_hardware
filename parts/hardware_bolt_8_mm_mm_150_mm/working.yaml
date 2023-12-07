@@ -56,6 +56,16 @@ name_no_size: 150 Mm
 name_no_size_short: 150 Mm
 name_no_type: 8 Mm Mm 150 Mm
 oomp_key: oomp_hardware_bolt_8_mm_mm_150_mm
+oomp_word: frog sunny chestnut
+oomp_word_emoji: ':frog: :sunny: :chestnut:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':sunny:'
+- ':chestnut:'
+oomp_word_list:
+- frog
+- sunny
+- chestnut
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

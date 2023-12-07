@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "253ZF",
     "md5_10": "36e56b1ee4",
     "md5_10_upper": "36E56B1EE4",
+    "oomp_word": "rabbit rocket chestnut",
+    "oomp_word_list": [
+        "rabbit",
+        "rocket",
+        "chestnut"
+    ],
+    "oomp_word_emoji": ":rabbit: :rocket: :chestnut:",
+    "oomp_word_emoji_list": [
+        ":rabbit:",
+        ":rocket:",
+        ":chestnut:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "100",

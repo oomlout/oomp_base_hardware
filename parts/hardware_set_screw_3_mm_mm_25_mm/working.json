@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7FGNB",
     "md5_10": "be6907163a",
     "md5_10_upper": "BE6907163A",
+    "oomp_word": "ramen cactus cry",
+    "oomp_word_list": [
+        "ramen",
+        "cactus",
+        "cry"
+    ],
+    "oomp_word_emoji": ":ramen: :cactus: :cry:",
+    "oomp_word_emoji_list": [
+        ":ramen:",
+        ":cactus:",
+        ":cry:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "25",

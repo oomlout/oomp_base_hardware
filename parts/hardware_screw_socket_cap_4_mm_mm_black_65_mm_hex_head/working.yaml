@@ -56,6 +56,16 @@ name_no_size: Black 65 Mm Hex Head
 name_no_size_short: Black 65 Mm Hex Head
 name_no_type: 4 Mm Mm Black 65 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_4_mm_mm_black_65_mm_hex_head
+oomp_word: clubs hospital bear
+oomp_word_emoji: ':clubs: :hospital: :bear:'
+oomp_word_emoji_list:
+- ':clubs:'
+- ':hospital:'
+- ':bear:'
+oomp_word_list:
+- clubs
+- hospital
+- bear
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -56,6 +56,16 @@ name_no_size: Black 5 Mm Hex Head
 name_no_size_short: Black 5 Mm Hex Head
 name_no_type: 2 5 Mm Mm Black 5 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_2_5_mm_mm_black_5_mm_hex_head
+oomp_word: snake computer two
+oomp_word_emoji: ':snake: :computer: :two:'
+oomp_word_emoji_list:
+- ':snake:'
+- ':computer:'
+- ':two:'
+oomp_word_list:
+- snake
+- computer
+- two
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

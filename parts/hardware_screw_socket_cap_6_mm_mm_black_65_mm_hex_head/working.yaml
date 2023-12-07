@@ -56,6 +56,16 @@ name_no_size: Black 65 Mm Hex Head
 name_no_size_short: Black 65 Mm Hex Head
 name_no_type: 6 Mm Mm Black 65 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_6_mm_mm_black_65_mm_hex_head
+oomp_word: office rowboat cyclone
+oomp_word_emoji: ':office: :rowboat: :cyclone:'
+oomp_word_emoji_list:
+- ':office:'
+- ':rowboat:'
+- ':cyclone:'
+oomp_word_list:
+- office
+- rowboat
+- cyclone
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

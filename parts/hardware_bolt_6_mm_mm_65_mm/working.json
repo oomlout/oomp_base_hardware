@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4HQ5U",
     "md5_10": "7322b29a95",
     "md5_10_upper": "7322B29A95",
+    "oomp_word": "flags lips handbag",
+    "oomp_word_list": [
+        "flags",
+        "lips",
+        "handbag"
+    ],
+    "oomp_word_emoji": ":flags: :lips: :handbag:",
+    "oomp_word_emoji_list": [
+        ":flags:",
+        ":lips:",
+        ":handbag:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "65",

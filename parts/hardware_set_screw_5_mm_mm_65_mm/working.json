@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "14X8Z",
     "md5_10": "1d225364c2",
     "md5_10_upper": "1D225364C2",
+    "oomp_word": "baby lips fish",
+    "oomp_word_list": [
+        "baby",
+        "lips",
+        "fish"
+    ],
+    "oomp_word_emoji": ":baby: :lips: :fish:",
+    "oomp_word_emoji_list": [
+        ":baby:",
+        ":lips:",
+        ":fish:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "65",

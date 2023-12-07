@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9OZ4S",
     "md5_10": "f870dc6042",
     "md5_10_upper": "F870DC6042",
+    "oomp_word": "seven squirrel factory",
+    "oomp_word_list": [
+        "seven",
+        "squirrel",
+        "factory"
+    ],
+    "oomp_word_emoji": ":seven: :squirrel: :factory:",
+    "oomp_word_emoji_list": [
+        ":seven:",
+        ":squirrel:",
+        ":factory:"
+    ],
     "size_only_numbers": "15",
     "size_only_numbers_no_zeros": "15",
     "description_only_numbers": "",

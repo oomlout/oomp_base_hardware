@@ -56,6 +56,16 @@ name_no_size: 70 Mm
 name_no_size_short: 70 Mm
 name_no_type: 8 Mm Mm 70 Mm
 oomp_key: oomp_hardware_bolt_8_mm_mm_70_mm
+oomp_word: chestnut snail door
+oomp_word_emoji: ':chestnut: :snail: :door:'
+oomp_word_emoji_list:
+- ':chestnut:'
+- ':snail:'
+- ':door:'
+oomp_word_list:
+- chestnut
+- snail
+- door
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

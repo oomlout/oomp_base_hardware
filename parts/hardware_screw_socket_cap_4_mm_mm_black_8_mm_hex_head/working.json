@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2BQ6J",
     "md5_10": "3b9b4b3c54",
     "md5_10_upper": "3B9B4B3C54",
+    "oomp_word": "bear ski penguin",
+    "oomp_word_list": [
+        "bear",
+        "ski",
+        "penguin"
+    ],
+    "oomp_word_emoji": ":bear: :ski: :penguin:",
+    "oomp_word_emoji_list": [
+        ":bear:",
+        ":ski:",
+        ":penguin:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "8",

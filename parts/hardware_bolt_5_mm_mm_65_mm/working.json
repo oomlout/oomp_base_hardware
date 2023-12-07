@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9J3KU",
     "md5_10": "f441de2de4",
     "md5_10_upper": "F441DE2DE4",
+    "oomp_word": "three camel rainbow",
+    "oomp_word_list": [
+        "three",
+        "camel",
+        "rainbow"
+    ],
+    "oomp_word_emoji": ":three: :camel: :rainbow:",
+    "oomp_word_emoji_list": [
+        ":three:",
+        ":camel:",
+        ":rainbow:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "65",

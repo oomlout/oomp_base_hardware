@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1VPWW",
     "md5_10": "3035f04c74",
     "md5_10_upper": "3035F04C74",
+    "oomp_word": "foggy hamster train",
+    "oomp_word_list": [
+        "foggy",
+        "hamster",
+        "train"
+    ],
+    "oomp_word_emoji": ":foggy: :hamster: :train:",
+    "oomp_word_emoji_list": [
+        ":foggy:",
+        ":hamster:",
+        ":train:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "16",

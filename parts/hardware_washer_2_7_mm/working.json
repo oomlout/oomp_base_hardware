@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8MQ0I",
     "md5_10": "dd353238d2",
     "md5_10_upper": "DD353238D2",
+    "oomp_word": "stars hamster cat",
+    "oomp_word_list": [
+        "stars",
+        "hamster",
+        "cat"
+    ],
+    "oomp_word_emoji": ":stars: :hamster: :cat:",
+    "oomp_word_emoji_list": [
+        ":stars:",
+        ":hamster:",
+        ":cat:"
+    ],
     "size_only_numbers": "27",
     "size_only_numbers_no_zeros": "27",
     "description_only_numbers": "",

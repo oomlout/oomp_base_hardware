@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3F2KO",
     "md5_10": "579dc8fb48",
     "md5_10_upper": "579DC8FB48",
+    "oomp_word": "rat hearts apple",
+    "oomp_word_list": [
+        "rat",
+        "hearts",
+        "apple"
+    ],
+    "oomp_word_emoji": ":rat: :hearts: :apple:",
+    "oomp_word_emoji_list": [
+        ":rat:",
+        ":hearts:",
+        ":apple:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "70",

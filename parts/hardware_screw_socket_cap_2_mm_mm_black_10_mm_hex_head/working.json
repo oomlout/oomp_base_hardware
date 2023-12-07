@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "36AB",
     "md5_10": "024293ac11",
     "md5_10_upper": "024293AC11",
+    "oomp_word": "blush sheep books",
+    "oomp_word_list": [
+        "blush",
+        "sheep",
+        "books"
+    ],
+    "oomp_word_emoji": ":blush: :sheep: :books:",
+    "oomp_word_emoji_list": [
+        ":blush:",
+        ":sheep:",
+        ":books:"
+    ],
     "size_only_numbers": "2",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "10",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "44JVH",
     "md5_10": "69c19df921",
     "md5_10_upper": "69C19DF921",
+    "oomp_word": "cactus doughnut hearts",
+    "oomp_word_list": [
+        "cactus",
+        "doughnut",
+        "hearts"
+    ],
+    "oomp_word_emoji": ":cactus: :doughnut: :hearts:",
+    "oomp_word_emoji_list": [
+        ":cactus:",
+        ":doughnut:",
+        ":hearts:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "25",

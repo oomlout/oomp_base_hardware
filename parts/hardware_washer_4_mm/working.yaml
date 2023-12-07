@@ -56,6 +56,16 @@ name_no_size: 4 Mm
 name_no_size_short: 4 Mm
 name_no_type: 4 Mm
 oomp_key: oomp_hardware_washer_4_mm
+oomp_word: pig cat tulip
+oomp_word_emoji: ':pig: :cat: :tulip:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':cat:'
+- ':tulip:'
+oomp_word_list:
+- pig
+- cat
+- tulip
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

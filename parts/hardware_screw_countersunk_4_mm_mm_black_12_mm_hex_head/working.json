@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9Y9Y",
     "md5_10": "0715c6a4aa",
     "md5_10_upper": "0715C6A4AA",
+    "oomp_word": "cry poop lollipop",
+    "oomp_word_list": [
+        "cry",
+        "poop",
+        "lollipop"
+    ],
+    "oomp_word_emoji": ":cry: :poop: :lollipop:",
+    "oomp_word_emoji_list": [
+        ":cry:",
+        ":poop:",
+        ":lollipop:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "12",

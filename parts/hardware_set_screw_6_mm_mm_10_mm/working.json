@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1GNV0",
     "md5_10": "257dcc1e2d",
     "md5_10_upper": "257DCC1E2D",
+    "oomp_word": "ear phone watermelon",
+    "oomp_word_list": [
+        "ear",
+        "phone",
+        "watermelon"
+    ],
+    "oomp_word_emoji": ":ear: :phone: :watermelon:",
+    "oomp_word_emoji_list": [
+        ":ear:",
+        ":phone:",
+        ":watermelon:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "10",

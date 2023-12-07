@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4TIIK",
     "md5_10": "7b86fcf975",
     "md5_10_upper": "7B86FCF975",
+    "oomp_word": "computer bath up",
+    "oomp_word_list": [
+        "computer",
+        "bath",
+        "up"
+    ],
+    "oomp_word_emoji": ":computer: :bath: :up:",
+    "oomp_word_emoji_list": [
+        ":computer:",
+        ":bath:",
+        ":up:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "8",

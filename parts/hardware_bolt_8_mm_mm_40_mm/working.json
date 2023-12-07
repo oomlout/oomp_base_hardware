@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4KBG5",
     "md5_10": "74faf53d8e",
     "md5_10_upper": "74FAF53D8E",
+    "oomp_word": "fireworks nine four",
+    "oomp_word_list": [
+        "fireworks",
+        "nine",
+        "four"
+    ],
+    "oomp_word_emoji": ":fireworks: :nine: :four:",
+    "oomp_word_emoji_list": [
+        ":fireworks:",
+        ":nine:",
+        ":four:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "40",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1044J",
     "md5_10": "19b5e3997e",
     "md5_10_upper": "19B5E3997E",
+    "oomp_word": "pray tea rowboat",
+    "oomp_word_list": [
+        "pray",
+        "tea",
+        "rowboat"
+    ],
+    "oomp_word_emoji": ":pray: :tea: :rowboat:",
+    "oomp_word_emoji_list": [
+        ":pray:",
+        ":tea:",
+        ":rowboat:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "20",

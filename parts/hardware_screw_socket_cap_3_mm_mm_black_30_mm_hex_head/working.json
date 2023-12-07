@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9LLIQ",
     "md5_10": "f60932bd6d",
     "md5_10_upper": "F60932BD6D",
+    "oomp_word": "five angry cat",
+    "oomp_word_list": [
+        "five",
+        "angry",
+        "cat"
+    ],
+    "oomp_word_emoji": ":five: :angry: :cat:",
+    "oomp_word_emoji_list": [
+        ":five:",
+        ":angry:",
+        ":cat:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "30",

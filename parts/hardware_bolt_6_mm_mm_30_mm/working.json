@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4DVSG",
     "md5_10": "706630645e",
     "md5_10_upper": "706630645E",
+    "oomp_word": "squirrel leaves foggy",
+    "oomp_word_list": [
+        "squirrel",
+        "leaves",
+        "foggy"
+    ],
+    "oomp_word_emoji": ":squirrel: :leaves: :foggy:",
+    "oomp_word_emoji_list": [
+        ":squirrel:",
+        ":leaves:",
+        ":foggy:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "30",

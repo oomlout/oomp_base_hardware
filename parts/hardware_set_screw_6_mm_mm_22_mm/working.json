@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "DVL3",
     "md5_10": "09e127baec",
     "md5_10_upper": "09E127BAEC",
+    "oomp_word": "angry boat nose",
+    "oomp_word_list": [
+        "angry",
+        "boat",
+        "nose"
+    ],
+    "oomp_word_emoji": ":angry: :boat: :nose:",
+    "oomp_word_emoji_list": [
+        ":angry:",
+        ":boat:",
+        ":nose:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "22",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "Z6PQ",
     "md5_10": "190cbe27a2",
     "md5_10_upper": "190CBE27A2",
+    "oomp_word": "pray alien ramen",
+    "oomp_word_list": [
+        "pray",
+        "alien",
+        "ramen"
+    ],
+    "oomp_word_emoji": ":pray: :alien: :ramen:",
+    "oomp_word_emoji_list": [
+        ":pray:",
+        ":alien:",
+        ":ramen:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "70",

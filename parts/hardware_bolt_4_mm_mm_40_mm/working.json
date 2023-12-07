@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1PBPE",
     "md5_10": "2ba8822e0f",
     "md5_10_upper": "2BA8822E0F",
+    "oomp_word": "cloud shoe radio",
+    "oomp_word_list": [
+        "cloud",
+        "shoe",
+        "radio"
+    ],
+    "oomp_word_emoji": ":cloud: :shoe: :radio:",
+    "oomp_word_emoji_list": [
+        ":cloud:",
+        ":shoe:",
+        ":radio:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "40",

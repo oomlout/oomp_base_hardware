@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "44L3R",
     "md5_10": "69c7d7b35f",
     "md5_10_upper": "69C7D7B35F",
+    "oomp_word": "cactus honey_pot office",
+    "oomp_word_list": [
+        "cactus",
+        "honey_pot",
+        "office"
+    ],
+    "oomp_word_emoji": ":cactus: :honey_pot: :office:",
+    "oomp_word_emoji_list": [
+        ":cactus:",
+        ":honey_pot:",
+        ":office:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "35",

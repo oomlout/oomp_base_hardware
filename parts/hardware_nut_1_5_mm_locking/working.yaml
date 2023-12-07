@@ -56,6 +56,16 @@ name_no_size: Locking
 name_no_size_short: Locking
 name_no_type: 1 5 Mm Locking
 oomp_key: oomp_hardware_nut_1_5_mm_locking
+oomp_word: seven squirrel factory
+oomp_word_emoji: ':seven: :squirrel: :factory:'
+oomp_word_emoji_list:
+- ':seven:'
+- ':squirrel:'
+- ':factory:'
+oomp_word_list:
+- seven
+- squirrel
+- factory
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

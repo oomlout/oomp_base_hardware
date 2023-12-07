@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3ZIFJ",
     "md5_10": "662b0fa4ec",
     "md5_10_upper": "662B0FA4EC",
+    "oomp_word": "leaves cloud sparkles",
+    "oomp_word_list": [
+        "leaves",
+        "cloud",
+        "sparkles"
+    ],
+    "oomp_word_emoji": ":leaves: :cloud: :sparkles:",
+    "oomp_word_emoji_list": [
+        ":leaves:",
+        ":cloud:",
+        ":sparkles:"
+    ],
     "size_only_numbers": "2",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "6",

@@ -56,6 +56,16 @@ name_no_size: 120 Mm
 name_no_size_short: 120 Mm
 name_no_type: 8 Mm Mm 120 Mm
 oomp_key: oomp_hardware_bolt_8_mm_mm_120_mm
+oomp_word: watermelon pizza thumbsdown
+oomp_word_emoji: ':watermelon: :pizza: :thumbsdown:'
+oomp_word_emoji_list:
+- ':watermelon:'
+- ':pizza:'
+- ':thumbsdown:'
+oomp_word_list:
+- watermelon
+- pizza
+- thumbsdown
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

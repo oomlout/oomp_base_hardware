@@ -56,6 +56,16 @@ name_no_size: Black 14 Mm Hex Head
 name_no_size_short: Black 14 Mm Hex Head
 name_no_type: 5 Mm Mm Black 14 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_5_mm_mm_black_14_mm_hex_head
+oomp_word: blowfish bell elephant
+oomp_word_emoji: ':blowfish: :bell: :elephant:'
+oomp_word_emoji_list:
+- ':blowfish:'
+- ':bell:'
+- ':elephant:'
+oomp_word_list:
+- blowfish
+- bell
+- elephant
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

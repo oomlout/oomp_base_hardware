@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "94PM9",
     "md5_10": "ea03b1a19c",
     "md5_10_upper": "EA03B1A19C",
+    "oomp_word": "tractor grin briefcase",
+    "oomp_word_list": [
+        "tractor",
+        "grin",
+        "briefcase"
+    ],
+    "oomp_word_emoji": ":tractor: :grin: :briefcase:",
+    "oomp_word_emoji_list": [
+        ":tractor:",
+        ":grin:",
+        ":briefcase:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "30",

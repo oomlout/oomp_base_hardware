@@ -56,6 +56,16 @@ name_no_size: Black 4 Mm Hex Head
 name_no_size_short: Black 4 Mm Hex Head
 name_no_type: 2 5 Mm Mm Black 4 Mm Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_2_5_mm_mm_black_4_mm_hex_head
+oomp_word: lollipop koala factory
+oomp_word_emoji: ':lollipop: :koala: :factory:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':koala:'
+- ':factory:'
+oomp_word_list:
+- lollipop
+- koala
+- factory
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

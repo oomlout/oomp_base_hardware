@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1DPN1",
     "md5_10": "23640d2168",
     "md5_10_upper": "23640D2168",
+    "oomp_word": "kiss sunflower heart",
+    "oomp_word_list": [
+        "kiss",
+        "sunflower",
+        "heart"
+    ],
+    "oomp_word_emoji": ":kiss: :sunflower: :heart:",
+    "oomp_word_emoji_list": [
+        ":kiss:",
+        ":sunflower:",
+        ":heart:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "16",

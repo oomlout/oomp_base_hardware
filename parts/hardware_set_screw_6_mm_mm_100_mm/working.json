@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "81J2X",
     "md5_10": "ce1ed95fdd",
     "md5_10_upper": "CE1ED95FDD",
+    "oomp_word": "peach angel bank",
+    "oomp_word_list": [
+        "peach",
+        "angel",
+        "bank"
+    ],
+    "oomp_word_emoji": ":peach: :angel: :bank:",
+    "oomp_word_emoji_list": [
+        ":peach:",
+        ":angel:",
+        ":bank:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "100",

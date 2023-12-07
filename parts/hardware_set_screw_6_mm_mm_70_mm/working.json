@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "SW1G",
     "md5_10": "1491348a8b",
     "md5_10_upper": "1491348A8B",
+    "oomp_word": "fire pushpin mouse",
+    "oomp_word_list": [
+        "fire",
+        "pushpin",
+        "mouse"
+    ],
+    "oomp_word_emoji": ":fire: :pushpin: :mouse:",
+    "oomp_word_emoji_list": [
+        ":fire:",
+        ":pushpin:",
+        ":mouse:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "70",

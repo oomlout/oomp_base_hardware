@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "699M",
     "md5_10": "04746aeec3",
     "md5_10_upper": "04746AEEC3",
+    "oomp_word": "wink fireworks palm_tree",
+    "oomp_word_list": [
+        "wink",
+        "fireworks",
+        "palm_tree"
+    ],
+    "oomp_word_emoji": ":wink: :fireworks: :palm_tree:",
+    "oomp_word_emoji_list": [
+        ":wink:",
+        ":fireworks:",
+        ":palm_tree:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "75",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6FP45",
     "md5_10": "a4f2e57d01",
     "md5_10_upper": "A4F2E57D01",
+    "oomp_word": "book one rocket",
+    "oomp_word_list": [
+        "book",
+        "one",
+        "rocket"
+    ],
+    "oomp_word_emoji": ":book: :one: :rocket:",
+    "oomp_word_emoji_list": [
+        ":book:",
+        ":one:",
+        ":rocket:"
+    ],
     "size_only_numbers": "27",
     "size_only_numbers_no_zeros": "27",
     "description_only_numbers": "",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6TGHV",
     "md5_10": "aebec3af3b",
     "md5_10_upper": "AEBEC3AF3B",
+    "oomp_word": "jeans ramen cake",
+    "oomp_word_list": [
+        "jeans",
+        "ramen",
+        "cake"
+    ],
+    "oomp_word_emoji": ":jeans: :ramen: :cake:",
+    "oomp_word_emoji_list": [
+        ":jeans:",
+        ":ramen:",
+        ":cake:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "45",

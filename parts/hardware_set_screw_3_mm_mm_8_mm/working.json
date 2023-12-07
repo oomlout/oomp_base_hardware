@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4F6VJ",
     "md5_10": "71548f3feb",
     "md5_10_upper": "71548F3FEB",
+    "oomp_word": "bamboo whale calendar",
+    "oomp_word_list": [
+        "bamboo",
+        "whale",
+        "calendar"
+    ],
+    "oomp_word_emoji": ":bamboo: :whale: :calendar:",
+    "oomp_word_emoji_list": [
+        ":bamboo:",
+        ":whale:",
+        ":calendar:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "8",

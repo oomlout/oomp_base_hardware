@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "20U6B",
     "md5_10": "33dac37c7d",
     "md5_10_upper": "33DAC37C7D",
+    "oomp_word": "dog hotel cake",
+    "oomp_word_list": [
+        "dog",
+        "hotel",
+        "cake"
+    ],
+    "oomp_word_emoji": ":dog: :hotel: :cake:",
+    "oomp_word_emoji_list": [
+        ":dog:",
+        ":hotel:",
+        ":cake:"
+    ],
     "size_only_numbers": "15",
     "size_only_numbers_no_zeros": "15",
     "description_only_numbers": "",

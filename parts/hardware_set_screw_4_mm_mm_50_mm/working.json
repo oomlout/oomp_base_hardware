@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7L2MN",
     "md5_10": "c2678fdd95",
     "md5_10_upper": "C2678FDD95",
+    "oomp_word": "birthday herb calendar",
+    "oomp_word_list": [
+        "birthday",
+        "herb",
+        "calendar"
+    ],
+    "oomp_word_emoji": ":birthday: :herb: :calendar:",
+    "oomp_word_emoji_list": [
+        ":birthday:",
+        ":herb:",
+        ":calendar:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "50",

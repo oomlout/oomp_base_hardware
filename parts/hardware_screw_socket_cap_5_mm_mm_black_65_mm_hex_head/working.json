@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4TIWV",
     "md5_10": "7b88ff34e3",
     "md5_10_upper": "7B88FF34E3",
+    "oomp_word": "computer wrench trident",
+    "oomp_word_list": [
+        "computer",
+        "wrench",
+        "trident"
+    ],
+    "oomp_word_emoji": ":computer: :wrench: :trident:",
+    "oomp_word_emoji_list": [
+        ":computer:",
+        ":wrench:",
+        ":trident:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "65",

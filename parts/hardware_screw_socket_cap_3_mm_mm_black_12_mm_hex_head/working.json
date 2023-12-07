@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7NHG9",
     "md5_10": "c41f198168",
     "md5_10_upper": "C41F198168",
+    "oomp_word": "cookie princess pray",
+    "oomp_word_list": [
+        "cookie",
+        "princess",
+        "pray"
+    ],
+    "oomp_word_emoji": ":cookie: :princess: :pray:",
+    "oomp_word_emoji_list": [
+        ":cookie:",
+        ":princess:",
+        ":pray:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "12",

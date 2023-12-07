@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7XPRB",
     "md5_10": "cb67a73c50",
     "md5_10_upper": "CB67A73C50",
+    "oomp_word": "grapes herb guitar",
+    "oomp_word_list": [
+        "grapes",
+        "herb",
+        "guitar"
+    ],
+    "oomp_word_emoji": ":grapes: :herb: :guitar:",
+    "oomp_word_emoji_list": [
+        ":grapes:",
+        ":herb:",
+        ":guitar:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "",

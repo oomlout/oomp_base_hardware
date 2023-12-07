@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5CXA3",
     "md5_10": "89587bf42d",
     "md5_10_upper": "89587BF42D",
+    "oomp_word": "hammer water_buffalo computer",
+    "oomp_word_list": [
+        "hammer",
+        "water_buffalo",
+        "computer"
+    ],
+    "oomp_word_emoji": ":hammer: :water_buffalo: :computer:",
+    "oomp_word_emoji_list": [
+        ":hammer:",
+        ":water_buffalo:",
+        ":computer:"
+    ],
     "size_only_numbers": "3",
     "size_only_numbers_no_zeros": "3",
     "description_only_numbers": "16",

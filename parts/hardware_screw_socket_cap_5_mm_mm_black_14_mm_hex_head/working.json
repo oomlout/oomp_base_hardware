@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3NAKJ",
     "md5_10": "5d7843f394",
     "md5_10_upper": "5D7843F394",
+    "oomp_word": "blowfish bell elephant",
+    "oomp_word_list": [
+        "blowfish",
+        "bell",
+        "elephant"
+    ],
+    "oomp_word_emoji": ":blowfish: :bell: :elephant:",
+    "oomp_word_emoji_list": [
+        ":blowfish:",
+        ":bell:",
+        ":elephant:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "14",

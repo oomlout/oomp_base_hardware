@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "3WU4J",
     "md5_10": "6443839f34",
     "md5_10_upper": "6443839F34",
+    "oomp_word": "sunflower elephant lock",
+    "oomp_word_list": [
+        "sunflower",
+        "elephant",
+        "lock"
+    ],
+    "oomp_word_emoji": ":sunflower: :elephant: :lock:",
+    "oomp_word_emoji_list": [
+        ":sunflower:",
+        ":elephant:",
+        ":lock:"
+    ],
     "size_only_numbers": "5",
     "size_only_numbers_no_zeros": "5",
     "description_only_numbers": "20",

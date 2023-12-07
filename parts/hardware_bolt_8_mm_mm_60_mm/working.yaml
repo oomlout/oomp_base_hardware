@@ -56,6 +56,16 @@ name_no_size: 60 Mm
 name_no_size_short: 60 Mm
 name_no_type: 8 Mm Mm 60 Mm
 oomp_key: oomp_hardware_bolt_8_mm_mm_60_mm
+oomp_word: ski calendar tongue
+oomp_word_emoji: ':ski: :calendar: :tongue:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':calendar:'
+- ':tongue:'
+oomp_word_list:
+- ski
+- calendar
+- tongue
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

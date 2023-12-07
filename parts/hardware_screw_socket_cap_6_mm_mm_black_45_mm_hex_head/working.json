@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "77WEK",
     "md5_10": "b906ccfccf",
     "md5_10_upper": "B906CCFCCF",
+    "oomp_word": "fries sleeping watermelon",
+    "oomp_word_list": [
+        "fries",
+        "sleeping",
+        "watermelon"
+    ],
+    "oomp_word_emoji": ":fries: :sleeping: :watermelon:",
+    "oomp_word_emoji_list": [
+        ":fries:",
+        ":sleeping:",
+        ":watermelon:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "45",

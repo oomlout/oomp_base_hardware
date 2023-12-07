@@ -56,6 +56,16 @@ name_no_size: Black 10 Mm Hex Head
 name_no_size_short: Black 10 Mm Hex Head
 name_no_type: 3 Mm Mm Black 10 Mm Hex Head
 oomp_key: oomp_hardware_screw_countersunk_3_mm_mm_black_10_mm_hex_head
+oomp_word: handbag bath melon
+oomp_word_emoji: ':handbag: :bath: :melon:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':bath:'
+- ':melon:'
+oomp_word_list:
+- handbag
+- bath
+- melon
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

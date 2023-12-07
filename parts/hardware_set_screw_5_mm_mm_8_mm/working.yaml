@@ -56,6 +56,16 @@ name_no_size: 8 Mm
 name_no_size_short: 8 Mm
 name_no_type: 5 Mm Mm 8 Mm
 oomp_key: oomp_hardware_set_screw_5_mm_mm_8_mm
+oomp_word: cyclone violin elephant
+oomp_word_emoji: ':cyclone: :violin: :elephant:'
+oomp_word_emoji_list:
+- ':cyclone:'
+- ':violin:'
+- ':elephant:'
+oomp_word_list:
+- cyclone
+- violin
+- elephant
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "ERLY",
     "md5_10": "0a8346d4ea",
     "md5_10_upper": "0A8346D4EA",
+    "oomp_word": "sleepy lock bird",
+    "oomp_word_list": [
+        "sleepy",
+        "lock",
+        "bird"
+    ],
+    "oomp_word_emoji": ":sleepy: :lock: :bird:",
+    "oomp_word_emoji_list": [
+        ":sleepy:",
+        ":lock:",
+        ":bird:"
+    ],
     "size_only_numbers": "25",
     "size_only_numbers_no_zeros": "25",
     "description_only_numbers": "10",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2U37Y",
     "md5_10": "48adce331f",
     "md5_10_upper": "48ADCE331F",
+    "oomp_word": "hatched_chick dress peach",
+    "oomp_word_list": [
+        "hatched_chick",
+        "dress",
+        "peach"
+    ],
+    "oomp_word_emoji": ":hatched_chick: :dress: :peach:",
+    "oomp_word_emoji_list": [
+        ":hatched_chick:",
+        ":dress:",
+        ":peach:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "70",

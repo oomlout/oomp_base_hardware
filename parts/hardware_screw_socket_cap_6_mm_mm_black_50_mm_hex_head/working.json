@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1GM1F",
     "md5_10": "2574939c82",
     "md5_10_upper": "2574939C82",
+    "oomp_word": "ear fireworks books",
+    "oomp_word_list": [
+        "ear",
+        "fireworks",
+        "books"
+    ],
+    "oomp_word_emoji": ":ear: :fireworks: :books:",
+    "oomp_word_emoji_list": [
+        ":ear:",
+        ":fireworks:",
+        ":books:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "50",

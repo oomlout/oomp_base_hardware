@@ -56,6 +56,16 @@ name_no_size: Locking
 name_no_size_short: Locking
 name_no_type: 6 Mm Locking
 oomp_key: oomp_hardware_nut_6_mm_locking
+oomp_word: heart zap cyclone
+oomp_word_emoji: ':heart: :zap: :cyclone:'
+oomp_word_emoji_list:
+- ':heart:'
+- ':zap:'
+- ':cyclone:'
+oomp_word_list:
+- heart
+- zap
+- cyclone
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

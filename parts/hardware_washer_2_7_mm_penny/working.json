@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1HMU6",
     "md5_10": "262ede3c3b",
     "md5_10_upper": "262EDE3C3B",
+    "oomp_word": "eyes zap rainbow",
+    "oomp_word_list": [
+        "eyes",
+        "zap",
+        "rainbow"
+    ],
+    "oomp_word_emoji": ":eyes: :zap: :rainbow:",
+    "oomp_word_emoji_list": [
+        ":eyes:",
+        ":zap:",
+        ":rainbow:"
+    ],
     "size_only_numbers": "27",
     "size_only_numbers_no_zeros": "27",
     "description_only_numbers": "",

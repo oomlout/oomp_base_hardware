@@ -56,6 +56,16 @@ name_no_size: 1 5 Mm
 name_no_size_short: 1 5 Mm
 name_no_type: 1 5 Mm
 oomp_key: oomp_hardware_nut_1_5_mm
+oomp_word: dizzy rocket beetle
+oomp_word_emoji: ':dizzy: :rocket: :beetle:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':rocket:'
+- ':beetle:'
+oomp_word_list:
+- dizzy
+- rocket
+- beetle
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

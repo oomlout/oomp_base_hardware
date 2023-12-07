@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "2IJIG",
     "md5_10": "4075487da7",
     "md5_10_upper": "4075487DA7",
+    "oomp_word": "racehorse ghost hatched_chick",
+    "oomp_word_list": [
+        "racehorse",
+        "ghost",
+        "hatched_chick"
+    ],
+    "oomp_word_emoji": ":racehorse: :ghost: :hatched_chick:",
+    "oomp_word_emoji_list": [
+        ":racehorse:",
+        ":ghost:",
+        ":hatched_chick:"
+    ],
     "size_only_numbers": "8",
     "size_only_numbers_no_zeros": "8",
     "description_only_numbers": "130",

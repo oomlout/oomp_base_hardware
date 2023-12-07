@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "40S9V",
     "md5_10": "6713231118",
     "md5_10_upper": "6713231118",
+    "oomp_word": "herb question kiss",
+    "oomp_word_list": [
+        "herb",
+        "question",
+        "kiss"
+    ],
+    "oomp_word_emoji": ":herb: :question: :kiss:",
+    "oomp_word_emoji_list": [
+        ":herb:",
+        ":question:",
+        ":kiss:"
+    ],
     "size_only_numbers": "2",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "8",

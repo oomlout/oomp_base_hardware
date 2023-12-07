@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "982L2",
     "md5_10": "ec6816236e",
     "md5_10_upper": "EC6816236E",
+    "oomp_word": "taxi mushroom thumbsup",
+    "oomp_word_list": [
+        "taxi",
+        "mushroom",
+        "thumbsup"
+    ],
+    "oomp_word_emoji": ":taxi: :mushroom: :thumbsup:",
+    "oomp_word_emoji_list": [
+        ":taxi:",
+        ":mushroom:",
+        ":thumbsup:"
+    ],
     "size_only_numbers": "2",
     "size_only_numbers_no_zeros": "2",
     "description_only_numbers": "12",

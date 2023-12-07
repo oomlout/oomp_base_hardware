@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "81QFU",
     "md5_10": "ce441ac0bf",
     "md5_10_upper": "CE441AC0BF",
+    "oomp_word": "peach panda_face clap",
+    "oomp_word_list": [
+        "peach",
+        "panda_face",
+        "clap"
+    ],
+    "oomp_word_emoji": ":peach: :panda_face: :clap:",
+    "oomp_word_emoji_list": [
+        ":peach:",
+        ":panda_face:",
+        ":clap:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "20",

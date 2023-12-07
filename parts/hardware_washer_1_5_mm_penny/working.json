@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8F210",
     "md5_10": "d7c00482c5",
     "md5_10_upper": "D7C00482C5",
+    "oomp_word": "office bread wink",
+    "oomp_word_list": [
+        "office",
+        "bread",
+        "wink"
+    ],
+    "oomp_word_emoji": ":office: :bread: :wink:",
+    "oomp_word_emoji_list": [
+        ":office:",
+        ":bread:",
+        ":wink:"
+    ],
     "size_only_numbers": "15",
     "size_only_numbers_no_zeros": "15",
     "description_only_numbers": "",

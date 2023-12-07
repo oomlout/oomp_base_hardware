@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "674FV",
     "md5_10": "9ed83b50e0",
     "md5_10_upper": "9ED83B50E0",
+    "oomp_word": "clubs hospital bear",
+    "oomp_word_list": [
+        "clubs",
+        "hospital",
+        "bear"
+    ],
+    "oomp_word_emoji": ":clubs: :hospital: :bear:",
+    "oomp_word_emoji_list": [
+        ":clubs:",
+        ":hospital:",
+        ":bear:"
+    ],
     "size_only_numbers": "4",
     "size_only_numbers_no_zeros": "4",
     "description_only_numbers": "65",
