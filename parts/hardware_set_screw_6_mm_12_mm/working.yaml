@@ -56,6 +56,16 @@ name_no_size: 12 Mm
 name_no_size_short: 12 Mm
 name_no_type: 6 Mm 12 Mm
 oomp_key: oomp_hardware_set_screw_6_mm_12_mm
+oomp_word: calendar tomato four
+oomp_word_emoji: ':calendar: :tomato: :four:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':tomato:'
+- ':four:'
+oomp_word_list:
+- calendar
+- tomato
+- four
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

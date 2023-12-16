@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6D5TO",
     "md5_10": "a324bc1fb4",
     "md5_10_upper": "A324BC1FB4",
+    "oomp_word": "pencil droplet sushi",
+    "oomp_word_list": [
+        "pencil",
+        "droplet",
+        "sushi"
+    ],
+    "oomp_word_emoji": ":pencil: :droplet: :sushi:",
+    "oomp_word_emoji_list": [
+        ":pencil:",
+        ":droplet:",
+        ":sushi:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "30",

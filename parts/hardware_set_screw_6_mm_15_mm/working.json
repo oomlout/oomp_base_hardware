@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6DHBZ",
     "md5_10": "a35effc0f5",
     "md5_10_upper": "A35EFFC0F5",
+    "oomp_word": "pencil crocodile trident",
+    "oomp_word_list": [
+        "pencil",
+        "crocodile",
+        "trident"
+    ],
+    "oomp_word_emoji": ":pencil: :crocodile: :trident:",
+    "oomp_word_emoji_list": [
+        ":pencil:",
+        ":crocodile:",
+        ":trident:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "15",

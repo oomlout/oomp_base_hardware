@@ -56,6 +56,16 @@ name_no_size: 30 Mm
 name_no_size_short: 30 Mm
 name_no_type: 6 Mm 30 Mm
 oomp_key: oomp_hardware_set_screw_6_mm_30_mm
+oomp_word: pencil droplet sushi
+oomp_word_emoji: ':pencil: :droplet: :sushi:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':droplet:'
+- ':sushi:'
+oomp_word_list:
+- pencil
+- droplet
+- sushi
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

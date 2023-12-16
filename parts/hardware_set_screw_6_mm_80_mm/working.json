@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "56I5N",
     "md5_10": "84c66bc648",
     "md5_10_upper": "84C66BC648",
+    "oomp_word": "key lollipop chestnut",
+    "oomp_word_list": [
+        "key",
+        "lollipop",
+        "chestnut"
+    ],
+    "oomp_word_emoji": ":key: :lollipop: :chestnut:",
+    "oomp_word_emoji_list": [
+        ":key:",
+        ":lollipop:",
+        ":chestnut:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "80",

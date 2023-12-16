@@ -56,6 +56,16 @@ name_no_size: 100 Mm
 name_no_size_short: 100 Mm
 name_no_type: 6 Mm 100 Mm
 oomp_key: oomp_hardware_set_screw_6_mm_100_mm
+oomp_word: banana shell ring
+oomp_word_emoji: ':banana: :shell: :ring:'
+oomp_word_emoji_list:
+- ':banana:'
+- ':shell:'
+- ':ring:'
+oomp_word_list:
+- banana
+- shell
+- ring
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

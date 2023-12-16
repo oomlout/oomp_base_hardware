@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "84SKY",
     "md5_10": "d071b2db21",
     "md5_10_upper": "D071B2DB21",
+    "oomp_word": "banana bamboo handbag",
+    "oomp_word_list": [
+        "banana",
+        "bamboo",
+        "handbag"
+    ],
+    "oomp_word_emoji": ":banana: :bamboo: :handbag:",
+    "oomp_word_emoji_list": [
+        ":banana:",
+        ":bamboo:",
+        ":handbag:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "45",

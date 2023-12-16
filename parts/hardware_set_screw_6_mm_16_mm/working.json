@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "94B6W",
     "md5_10": "e9baa82d73",
     "md5_10_upper": "E9BAA82D73",
+    "oomp_word": "bike spaghetti shoe",
+    "oomp_word_list": [
+        "bike",
+        "spaghetti",
+        "shoe"
+    ],
+    "oomp_word_emoji": ":bike: :spaghetti: :shoe:",
+    "oomp_word_emoji_list": [
+        ":bike:",
+        ":spaghetti:",
+        ":shoe:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "16",

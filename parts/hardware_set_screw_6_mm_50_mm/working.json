@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "1RHEJ",
     "md5_10": "2d31db255d",
     "md5_10_upper": "2D31DB255D",
+    "oomp_word": "snowman ocean tent",
+    "oomp_word_list": [
+        "snowman",
+        "ocean",
+        "tent"
+    ],
+    "oomp_word_emoji": ":snowman: :ocean: :tent:",
+    "oomp_word_emoji_list": [
+        ":snowman:",
+        ":ocean:",
+        ":tent:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "50",

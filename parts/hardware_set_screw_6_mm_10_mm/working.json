@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "70U57",
     "md5_10": "b3ff9bdd61",
     "md5_10_upper": "B3FF9BDD61",
+    "oomp_word": "eyeglasses trident ski",
+    "oomp_word_list": [
+        "eyeglasses",
+        "trident",
+        "ski"
+    ],
+    "oomp_word_emoji": ":eyeglasses: :trident: :ski:",
+    "oomp_word_emoji_list": [
+        ":eyeglasses:",
+        ":trident:",
+        ":ski:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "10",

@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "8HQCA",
     "md5_10": "d9a79a2884",
     "md5_10_upper": "D9A79A2884",
+    "oomp_word": "bank guitar golf",
+    "oomp_word_list": [
+        "bank",
+        "guitar",
+        "golf"
+    ],
+    "oomp_word_emoji": ":bank: :guitar: :golf:",
+    "oomp_word_emoji_list": [
+        ":bank:",
+        ":guitar:",
+        ":golf:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "18",

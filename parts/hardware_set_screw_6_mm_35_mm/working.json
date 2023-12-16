@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "6MM0L",
     "md5_10": "a9def5e7c1",
     "md5_10_upper": "A9DEF5E7C1",
+    "oomp_word": "sandal rainbow four",
+    "oomp_word_list": [
+        "sandal",
+        "rainbow",
+        "four"
+    ],
+    "oomp_word_emoji": ":sandal: :rainbow: :four:",
+    "oomp_word_emoji_list": [
+        ":sandal:",
+        ":rainbow:",
+        ":four:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "35",

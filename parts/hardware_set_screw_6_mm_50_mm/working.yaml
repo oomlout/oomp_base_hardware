@@ -56,6 +56,16 @@ name_no_size: 50 Mm
 name_no_size_short: 50 Mm
 name_no_type: 6 Mm 50 Mm
 oomp_key: oomp_hardware_set_screw_6_mm_50_mm
+oomp_word: snowman ocean tent
+oomp_word_emoji: ':snowman: :ocean: :tent:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':ocean:'
+- ':tent:'
+oomp_word_list:
+- snowman
+- ocean
+- tent
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

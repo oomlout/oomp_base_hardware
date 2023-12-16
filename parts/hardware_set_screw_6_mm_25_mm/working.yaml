@@ -56,6 +56,16 @@ name_no_size: 25 Mm
 name_no_size_short: 25 Mm
 name_no_type: 6 Mm 25 Mm
 oomp_key: oomp_hardware_set_screw_6_mm_25_mm
+oomp_word: snail whale dancer
+oomp_word_emoji: ':snail: :whale: :dancer:'
+oomp_word_emoji_list:
+- ':snail:'
+- ':whale:'
+- ':dancer:'
+oomp_word_list:
+- snail
+- whale
+- dancer
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

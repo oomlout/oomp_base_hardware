@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "84RS0",
     "md5_10": "d06da05332",
     "md5_10_upper": "D06DA05332",
+    "oomp_word": "banana shell ring",
+    "oomp_word_list": [
+        "banana",
+        "shell",
+        "ring"
+    ],
+    "oomp_word_emoji": ":banana: :shell: :ring:",
+    "oomp_word_emoji_list": [
+        ":banana:",
+        ":shell:",
+        ":ring:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "100",

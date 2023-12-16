@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "85J7Z",
     "md5_10": "d0f88fa70c",
     "md5_10_upper": "D0F88FA70C",
+    "oomp_word": "banana seven calendar",
+    "oomp_word_list": [
+        "banana",
+        "seven",
+        "calendar"
+    ],
+    "oomp_word_emoji": ":banana: :seven: :calendar:",
+    "oomp_word_emoji_list": [
+        ":banana:",
+        ":seven:",
+        ":calendar:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "70",

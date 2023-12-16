@@ -56,6 +56,16 @@ name_no_size: 18 Mm
 name_no_size_short: 18 Mm
 name_no_type: 6 Mm 18 Mm
 oomp_key: oomp_hardware_set_screw_6_mm_18_mm
+oomp_word: bank guitar golf
+oomp_word_emoji: ':bank: :guitar: :golf:'
+oomp_word_emoji_list:
+- ':bank:'
+- ':guitar:'
+- ':golf:'
+oomp_word_list:
+- bank
+- guitar
+- golf
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

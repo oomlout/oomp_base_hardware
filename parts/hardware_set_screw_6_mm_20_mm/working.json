@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9WRPV",
     "md5_10": "fdfd5321d5",
     "md5_10_upper": "FDFD5321D5",
+    "oomp_word": "parking parking fish",
+    "oomp_word_list": [
+        "parking",
+        "parking",
+        "fish"
+    ],
+    "oomp_word_emoji": ":parking: :parking: :fish:",
+    "oomp_word_emoji_list": [
+        ":parking:",
+        ":parking:",
+        ":fish:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "20",

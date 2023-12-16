@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "7F4K4",
     "md5_10": "be2bd461bc",
     "md5_10_upper": "BE2BD461BC",
+    "oomp_word": "ramen cloud corn",
+    "oomp_word_list": [
+        "ramen",
+        "cloud",
+        "corn"
+    ],
+    "oomp_word_emoji": ":ramen: :cloud: :corn:",
+    "oomp_word_emoji_list": [
+        ":ramen:",
+        ":cloud:",
+        ":corn:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "60",

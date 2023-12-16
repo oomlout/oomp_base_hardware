@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "368M4",
     "md5_10": "51541c65cc",
     "md5_10_upper": "51541C65CC",
+    "oomp_word": "snail whale dancer",
+    "oomp_word_list": [
+        "snail",
+        "whale",
+        "dancer"
+    ],
+    "oomp_word_emoji": ":snail: :whale: :dancer:",
+    "oomp_word_emoji_list": [
+        ":snail:",
+        ":whale:",
+        ":dancer:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "25",

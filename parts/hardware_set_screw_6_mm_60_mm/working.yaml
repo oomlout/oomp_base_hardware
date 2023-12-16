@@ -56,6 +56,16 @@ name_no_size: 60 Mm
 name_no_size_short: 60 Mm
 name_no_type: 6 Mm 60 Mm
 oomp_key: oomp_hardware_set_screw_6_mm_60_mm
+oomp_word: ramen cloud corn
+oomp_word_emoji: ':ramen: :cloud: :corn:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':cloud:'
+- ':corn:'
+oomp_word_list:
+- ramen
+- cloud
+- corn
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''

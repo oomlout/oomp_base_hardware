@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "4F6PQ",
     "md5_10": "7153be00a2",
     "md5_10_upper": "7153BE00A2",
+    "oomp_word": "bamboo fish ramen",
+    "oomp_word_list": [
+        "bamboo",
+        "fish",
+        "ramen"
+    ],
+    "oomp_word_emoji": ":bamboo: :fish: :ramen:",
+    "oomp_word_emoji_list": [
+        ":bamboo:",
+        ":fish:",
+        ":ramen:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "40",

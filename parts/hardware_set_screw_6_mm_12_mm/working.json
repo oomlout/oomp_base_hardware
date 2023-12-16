@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "5M12T",
     "md5_10": "8fd3f5aa40",
     "md5_10_upper": "8FD3F5AA40",
+    "oomp_word": "calendar tomato four",
+    "oomp_word_list": [
+        "calendar",
+        "tomato",
+        "four"
+    ],
+    "oomp_word_emoji": ":calendar: :tomato: :four:",
+    "oomp_word_emoji_list": [
+        ":calendar:",
+        ":tomato:",
+        ":four:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "12",

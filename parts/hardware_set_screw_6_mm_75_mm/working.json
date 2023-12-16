@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "71EWD",
     "md5_10": "b468ad99f8",
     "md5_10_upper": "B468AD99F8",
+    "oomp_word": "coffee mushroom dress",
+    "oomp_word_list": [
+        "coffee",
+        "mushroom",
+        "dress"
+    ],
+    "oomp_word_emoji": ":coffee: :mushroom: :dress:",
+    "oomp_word_emoji_list": [
+        ":coffee:",
+        ":mushroom:",
+        ":dress:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "75",

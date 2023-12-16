@@ -67,6 +67,18 @@
     "md5_6_alpha_upper": "9Q4M5",
     "md5_10": "f942dddd25",
     "md5_10_upper": "F942DDDD25",
+    "oomp_word": "eight sheep stars",
+    "oomp_word_list": [
+        "eight",
+        "sheep",
+        "stars"
+    ],
+    "oomp_word_emoji": ":eight: :sheep: :stars:",
+    "oomp_word_emoji_list": [
+        ":eight:",
+        ":sheep:",
+        ":stars:"
+    ],
     "size_only_numbers": "6",
     "size_only_numbers_no_zeros": "6",
     "description_only_numbers": "90",

@@ -56,6 +56,16 @@ name_no_size: 10 Mm
 name_no_size_short: 10 Mm
 name_no_type: 6 Mm 10 Mm
 oomp_key: oomp_hardware_set_screw_6_mm_10_mm
+oomp_word: eyeglasses trident ski
+oomp_word_emoji: ':eyeglasses: :trident: :ski:'
+oomp_word_emoji_list:
+- ':eyeglasses:'
+- ':trident:'
+- ':ski:'
+oomp_word_list:
+- eyeglasses
+- trident
+- ski
 part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
