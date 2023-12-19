@@ -24,7 +24,7 @@ description_or_color: '10'
 description_or_color_upper: '10'
 directory: parts/hardware_set_screw_3_mm_10_mm
 distributors: []
-filter: ''
+filter: hardware
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_3_mm_10_mm/working
 id: hardware_set_screw_3_mm_10_mm
