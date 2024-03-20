@@ -38,7 +38,7 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_screw_countersunk_m3_5_12_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_12_mm_length_pozidrive_head/working)<br>[scs](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_12_mm_length_pozidrive_head/working)<br>[Hardware
+markdown_full: '[hardware_screw_countersunk_m3_5_12_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_12_mm_length_pozidrive_head/working)<br>[scs12pz](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_12_mm_length_pozidrive_head/working)<br>[Hardware
     Screw Countersunk M3 5 12 Mm Length Pozidrive Head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_12_mm_length_pozidrive_head/working)<br><br>'
 markdown_short: '[hardware_screw_countersunk_m3_5_12_mm_length_pozidrive_head](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_5_12_mm_length_pozidrive_head/working)<br><br>'
 md5: ca8b999765f6fdd1d74c9ca79163d194
@@ -71,8 +71,8 @@ part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
-short_code: scs
-short_code_upper: SCS
+short_code: scs12pz
+short_code_upper: SCS12PZ
 size: m3_5
 size_capital: M3.5
 size_first_letter: m
